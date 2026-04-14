@@ -6,48 +6,61 @@ import VercelAnalytics from "@/components/VercelAnalytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "SITE_TITLE",
-    template: "%s | SITE_TITLE",
+    default: "SpiceAtlas — Herb & Spice Encyclopedia",
+    template: "%s | SpiceAtlas",
   },
-  description: "SITE_DESCRIPTION",
+  description: "Explore 600+ herbs and spices with flavor profiles, pairing guides, and culinary origins. Your interactive spice encyclopedia.",
   openGraph: {
-    title: "SITE_TITLE",
-    description: "SITE_DESCRIPTION",
-    url: "https://SUBDOMAIN.rollersoft.com.au",
-    siteName: "SITE_TITLE",
+    title: "SpiceAtlas — Herb & Spice Encyclopedia",
+    description: "Explore 600+ herbs and spices with flavor profiles, pairing guides, and culinary origins.",
+    url: "https://spiceatlas.starmap.quest",
+    siteName: "SpiceAtlas",
     locale: "en_AU",
     type: "website",
   },
   alternates: {
-    canonical: "https://SUBDOMAIN.rollersoft.com.au",
+    canonical: "https://spiceatlas.starmap.quest",
   },
-  robots: {
-    index: true,
-    follow: true,
-  },
+  robots: { index: true, follow: true },
 };
 
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" data-theme="DAISY_THEME">
+    <html lang="en" data-theme="forest">
       <head>
         <GoogleAnalytics />
         <GoogleAdSense />
       </head>
       <body className="min-h-dvh bg-base-100 flex flex-col">
         <VercelAnalytics />
-        <header className="navbar bg-primary text-primary-content shadow-lg">
-          <div className="container mx-auto px-4">
-            <a className="text-xl font-bold" href="/">SITE_TITLE</a>
+        <header className="navbar bg-gradient-to-r from-emerald-900 to-emerald-700 text-white shadow-lg">
+          <div className="container mx-auto px-4 flex justify-between items-center">
+            <a className="text-xl font-bold flex items-center gap-2" href="/">
+              <span className="text-2xl">🌿</span>
+              <span>SpiceAtlas</span>
+            </a>
+            <nav className="flex gap-4 text-sm">
+              <a href="/" className="hover:text-emerald-200 transition-colors">Home</a>
+              <a href="/browse" className="hover:text-emerald-200 transition-colors">Browse All</a>
+              <a href="/pairings" className="hover:text-emerald-200 transition-colors">Pairing Guide</a>
+            </nav>
           </div>
         </header>
-        <main className="container mx-auto px-4 py-8 flex-1">
-          {children}
-        </main>
-        <footer className="footer footer-center p-6 bg-base-200 text-base-content mt-auto">
-          <p>© {new Date().getFullYear()} SITE_TITLE. Data sourced from public records.</p>
+        <main className="flex-1">{children}</main>
+        <footer className="bg-base-200 border-t border-base-300">
+          <div className="container mx-auto px-4 py-8">
+            <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+              <div>
+                <p className="font-bold text-lg">🌿 SpiceAtlas</p>
+                <p className="text-base-content/60 text-sm">Your interactive herb & spice encyclopedia</p>
+              </div>
+              <div className="text-sm text-base-content/60">
+                <p>Data sourced from Wikipedia. © {new Date().getFullYear()} <a href="https://rollersoft.com.au" className="link link-hover">Rollersoft</a></p>
+              </div>
+            </div>
+          </div>
         </footer>
       </body>
     </html>
