@@ -156,9 +156,26 @@ export function PairingExplorer({ spices }: { spices: Spice[] }) {
       )}
 
       {!selected && (
-        <div className="text-center py-12 text-base-content/50">
-          <p className="text-4xl mb-4">🔍</p>
-          <p>Start typing a spice name above to explore pairings</p>
+        <div className="py-8">
+          <div className="text-center text-base-content/60 mb-6">
+            <p className="text-4xl mb-2">🔍</p>
+            <p>Start typing a spice name above, or pick one of these popular spices:</p>
+          </div>
+          <div className="flex flex-wrap justify-center gap-2 max-w-3xl mx-auto">
+            {["basil","black-pepper","cinnamon","cardamom","cumin","coriander-leaf","ginger","turmeric","oregano","rosemary","thyme","paprika","cayenne","saffron","nutmeg","cloves"]
+              .map((quickSlug) => spices.find((s) => s.slug === quickSlug))
+              .filter((s): s is Spice => Boolean(s))
+              .map((s) => (
+                <button
+                  key={s.slug}
+                  onClick={() => { setSelected(s.slug); setQuery(s.name); }}
+                  className="btn btn-sm btn-outline"
+                >
+                  <span>{s.type === "herb" ? "🌿" : "🌶️"}</span>
+                  {s.name}
+                </button>
+              ))}
+          </div>
         </div>
       )}
     </div>

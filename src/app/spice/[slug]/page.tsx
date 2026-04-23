@@ -163,6 +163,32 @@ export default async function SpicePage({
             </div>
           </div>
 
+          {/* Buy on Amazon (affiliate) */}
+          {(() => {
+            const tag = process.env.NEXT_PUBLIC_AMAZON_AU_TAG;
+            if (!tag) return null;
+            const q = encodeURIComponent(spice.name);
+            const href = `https://www.amazon.com.au/s?k=${q}&tag=${tag}`;
+            return (
+              <div className="card bg-base-100 border border-base-300">
+                <div className="card-body">
+                  <h2 className="card-title">🛒 Buy {spice.name}</h2>
+                  <p className="text-sm text-base-content/70">
+                    Find {spice.name} on Amazon Australia. As an Amazon Associate we earn from qualifying purchases.
+                  </p>
+                  <a
+                    href={href}
+                    target="_blank"
+                    rel="sponsored noopener noreferrer"
+                    className="btn btn-primary btn-sm w-fit mt-2"
+                  >
+                    Shop {spice.name} on Amazon AU →
+                  </a>
+                </div>
+              </div>
+            );
+          })()}
+
           {/* Pairing Guide */}
           <div className="card bg-base-100 border border-base-300">
             <div className="card-body">

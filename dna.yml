@@ -1,0 +1,11 @@
+id: dna://site/spiceatlas
+type: site
+title: "SpiceAtlas — Herb & Spice Encyclopedia with 300+ Varieties, Flavor Profiles & Pairing Guide"
+url: https://spiceatlas.starmap.quest
+repo: exisz/spiceatlas
+managed_by: dna://agent/starmap
+deployed_by: dna://agent/starmap
+status: deployed
+star_ticket: STAR-302
+tracked_in:
+  - dna://board/star
