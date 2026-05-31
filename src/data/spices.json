@@ -27,10 +27,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "black pepper"
+      "basil",
+      "oregano",
+      "thyme",
+      "mint"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/African_basil"
@@ -63,10 +63,9 @@
     "culinaryContext": "Commonly used in West Africa cooking contexts.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika",
-      "salt"
+      "grains of paradise",
+      "black pepper",
+      "cayenne"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Alligator_pepper"
@@ -98,9 +97,9 @@
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with cinnamon, nutmeg, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
       "cinnamon",
-      "cloves",
       "nutmeg",
-      "ginger"
+      "cloves",
+      "cardamom"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Allspice"
@@ -130,10 +129,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with fennel, cinnamon, star anise. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "fennel"
+      "star anise",
+      "fennel seeds",
+      "licorice root"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Anise"
@@ -166,10 +164,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with fennel, cinnamon, star anise. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "fennel"
+      "star anise",
+      "fennel seeds",
+      "anise extract"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Aniseed"
@@ -201,10 +198,10 @@
     "culinaryContext": "Commonly used in Australia cooking contexts.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with fennel, cinnamon, star anise. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "fennel"
+      "anise",
+      "fennel",
+      "star anise",
+      "licorice root"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Aniseed_myrtle"
@@ -235,10 +232,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with rice, chicken, pork. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "rice"
+      "turmeric (color)",
+      "paprika (color)",
+      "saffron (color)",
+      "safflower"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Annatto"
@@ -269,10 +266,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, soy sauce, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "ginger",
+      "galangal",
+      "cardamom",
+      "cinnamon"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Aromatic_ginger"
@@ -305,8 +302,7 @@
     "substitutes": [
       "garlic powder",
       "onion powder",
-      "mustard seed",
-      "lentils"
+      "leek powder"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Asafoetida"
@@ -341,10 +337,9 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika",
-      "salt"
+      "black pepper",
+      "grains of paradise",
+      "cayenne"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Ashanti_pepper"
@@ -375,10 +370,9 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "cayenne",
+      "harissa"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Baklouti_pepper"
@@ -409,10 +403,9 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika",
-      "salt"
+      "pepperoncini",
+      "Anaheim pepper",
+      "sweet paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Banana_pepper"
@@ -443,10 +436,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "black pepper"
+      "oregano",
+      "thyme",
+      "mint",
+      "tarragon"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Basil"
@@ -477,10 +470,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with soup, stew, rice. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "parsley",
+      "dried thyme",
+      "dried oregano",
       "basil",
-      "oregano",
-      "saffron"
+      "boldo leaf"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Bay_leaf"
@@ -511,10 +504,9 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika",
-      "salt"
+      "banana pepper",
+      "pepperoncini",
+      "Anaheim pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Beaver_Dam_pepper"
@@ -545,10 +537,9 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika",
-      "salt"
+      "sweet paprika",
+      "piquillo pepper",
+      "roasted red pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Bell_pepper"
@@ -581,10 +572,10 @@
     "culinaryContext": "Commonly used in India cooking contexts.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cinnamon, ginger, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "saffron"
+      "cardamom",
+      "smoked paprika",
+      "cloves",
+      "allspice"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Black_cardamom"
@@ -618,9 +609,8 @@
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with coriander, chili, turmeric. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
       "cumin",
-      "coriander",
-      "turmeric",
-      "cinnamon"
+      "caraway",
+      "nigella seeds"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Black_cumin"
@@ -651,10 +641,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika",
-      "salt"
+      "white pepper",
+      "grains of paradise",
+      "pink pepper",
+      "Szechuan pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Black_pepper"
@@ -685,9 +675,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with soy sauce, honey, ginger. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "soy sauce",
-      "honey",
-      "ginger"
+      "sesame seeds",
+      "hemp seeds",
+      "poppy seeds"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Black_sesame_seeds"
@@ -721,9 +711,8 @@
     "howToUse": "Use the culinary plant part or prepared seasoning in small measured amounts, then adjust after tasting. It works especially well with cumin, coriander, turmeric. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
       "fenugreek",
-      "bay leaf",
-      "dried oregano",
-      "cumin"
+      "celery leaves",
+      "lovage"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Blue_fenugreek"
@@ -756,10 +745,9 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika",
-      "salt"
+      "black pepper",
+      "pink pepper",
+      "Szechuan pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Brazilian_pepper"
@@ -790,10 +778,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the culinary plant part or prepared seasoning in small measured amounts, then adjust after tasting. It works especially well with cinnamon, cream, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "nutmeg"
+      "nutmeg",
+      "mace",
+      "allspice"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Calabash_nutmeg"
@@ -825,9 +812,9 @@
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cabbage, rye bread, pork. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
       "cumin",
-      "coriander",
-      "turmeric",
-      "fennel seed"
+      "fennel seeds",
+      "dill seeds",
+      "anise"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Caraway"
@@ -859,9 +846,9 @@
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cinnamon, ginger, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
       "cinnamon",
-      "nutmeg",
       "allspice",
-      "saffron"
+      "cloves",
+      "ginger"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Cardamom"
@@ -892,10 +879,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, cumin. Because it carries noticeable heat, add it gradually and balance it with fat, starch, sweetness, or acidity.",
     "substitutes": [
-      "chili pepper",
+      "chili powder",
+      "red pepper flakes",
       "paprika",
-      "garlic",
-      "lemon"
+      "Aleppo pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Cayenne"
@@ -926,10 +913,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, cumin. Because it carries noticeable heat, add it gradually and balance it with fat, starch, sweetness, or acidity.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
+      "chili powder",
+      "red pepper flakes",
       "paprika",
-      "garlic"
+      "Aleppo pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Cayenne_pepper"
@@ -957,10 +944,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "celery salt",
+      "dill seeds",
+      "caraway",
+      "fennel seeds"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Celery_seed"
@@ -992,9 +979,9 @@
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with garlic, cumin, oregano. Because it carries noticeable heat, add it gradually and balance it with fat, starch, sweetness, or acidity.",
     "substitutes": [
       "cayenne",
-      "chili pepper",
+      "chili powder",
       "paprika",
-      "smoked paprika"
+      "Aleppo pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Chili"
@@ -1026,9 +1013,9 @@
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
       "cayenne",
-      "paprika",
-      "salt",
-      "garlic"
+      "chili powder",
+      "red pepper flakes",
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Chili_pepper"
@@ -1060,9 +1047,9 @@
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with garlic, cumin, oregano. Because it carries noticeable heat, add it gradually and balance it with fat, starch, sweetness, or acidity.",
     "substitutes": [
       "cayenne",
-      "chili pepper",
       "paprika",
-      "smoked paprika"
+      "chipotle powder",
+      "Aleppo pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Chili_powder"
@@ -1097,10 +1084,9 @@
     "culinaryContext": "Commonly used in China cooking contexts.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cinnamon, ginger, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "saffron"
+      "black cardamom",
+      "cardamom",
+      "allspice"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Chinese_black_cardamom"
@@ -1135,10 +1121,9 @@
     "culinaryContext": "Commonly used in China cooking contexts.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cinnamon, ginger, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "saffron"
+      "cardamom",
+      "white pepper",
+      "coriander"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Chinese_white_cardamom"
@@ -1169,9 +1154,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with potato, cream cheese, egg. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "potato",
-      "cream cheese",
-      "egg"
+      "green onion",
+      "leek",
+      "garlic chives",
+      "shallots"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Chives"
@@ -1202,10 +1188,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the bark in small measured amounts, then adjust after tasting. It works especially well with apple, chocolate, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "nutmeg",
       "allspice",
-      "cloves",
-      "apple"
+      "cardamom",
+      "nutmeg",
+      "mace"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Cinnamon"
@@ -1342,9 +1328,9 @@
     "culinaryContext": "Commonly used in South-East Asia cooking contexts.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with coconut, chili, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "coconut",
-      "chili",
-      "garlic"
+      "lemongrass",
+      "lemon zest",
+      "lemon verbena"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Common_lemongrass"
@@ -1375,10 +1361,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "spearmint"
+      "thyme",
+      "oregano",
+      "rosemary",
+      "marjoram"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Common_thyme"
@@ -1409,10 +1395,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the culinary plant part or prepared seasoning in small measured amounts, then adjust after tasting. It works especially well with cumin, chili, lime. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "saffron",
-      "rose",
-      "lavender",
-      "cumin"
+      "cumin",
+      "caraway",
+      "fennel",
+      "garam masala"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Coriander"
@@ -1547,10 +1533,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "spearmint"
+      "thyme",
+      "oregano",
+      "marjoram",
+      "rosemary"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Creeping_thyme"
@@ -1583,8 +1569,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Crushed_red_pepper"
@@ -1615,10 +1600,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, basil, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "cinnamon"
+      "oregano",
+      "thyme",
+      "marjoram",
+      "basil"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Cuban_oregano"
@@ -1649,10 +1634,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with coriander, chili, turmeric. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
+      "caraway",
       "coriander",
-      "turmeric",
-      "cinnamon",
-      "allspice"
+      "chili powder",
+      "fennel seeds"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Cumin"
@@ -1683,9 +1668,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with salmon, cucumber, yogurt. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "salmon",
-      "cucumber",
-      "yogurt"
+      "fennel fronds",
+      "tarragon",
+      "parsley",
+      "caraway leaves"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Dill"
@@ -1823,8 +1809,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Dorrigo_pepper"
@@ -1923,10 +1908,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the culinary plant part or prepared seasoning in small measured amounts, then adjust after tasting. It works especially well with cumin, coriander, turmeric. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "bay leaf",
-      "dried oregano",
-      "cumin",
-      "coriander"
+      "maple syrup (flavor)",
+      "celery leaves",
+      "watercress",
+      "fennel seeds"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Fenugreek"
@@ -1957,10 +1942,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with lamb, chocolate, pea. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "lamb"
+      "cilantro",
+      "Vietnamese coriander",
+      "mint",
+      "shiso"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Fish_mint"
@@ -1993,9 +1978,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, butter. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "garlic",
-      "lemon",
-      "butter"
+      "parsley",
+      "chervil",
+      "cilantro",
+      "tarragon"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/French_parsley"
@@ -2193,10 +2179,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, soy sauce, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "galangal",
+      "mace",
+      "cardamom",
+      "cinnamon"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Ginger"
@@ -2296,10 +2282,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "black pepper"
+      "basil",
+      "oregano",
+      "Thai basil",
+      "mint"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Holy_basil"
@@ -2367,10 +2353,9 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with soup, stew, rice. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "parsley",
-      "basil",
-      "oregano",
-      "saffron"
+      "bay leaf",
+      "cinnamon leaf",
+      "cassia leaf"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Indian_bay_leaf"
@@ -2405,10 +2390,9 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with soup, stew, rice. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "parsley",
-      "basil",
-      "oregano",
-      "saffron"
+      "bay leaf",
+      "pandan leaf",
+      "salam leaf"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Indonesian_bay_leaf"
@@ -2475,9 +2459,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, butter. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "garlic",
-      "lemon",
-      "butter"
+      "parsley",
+      "cilantro",
+      "chervil",
+      "basil"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Italian_parsley"
@@ -2508,9 +2493,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, butter. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "garlic",
-      "lemon",
-      "butter"
+      "parsley",
+      "cilantro",
+      "celery leaves",
+      "chervil"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Japanese_parsley"
@@ -2579,8 +2565,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Kani_pepper"
@@ -2644,10 +2629,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with honey, lemon, vanilla. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "saffron",
-      "rose",
-      "cinnamon",
-      "nutmeg"
+      "herbes de Provence",
+      "rosemary",
+      "thyme",
+      "chamomile"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lavender"
@@ -2678,10 +2663,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "spearmint"
+      "thyme",
+      "lavender",
+      "oregano",
+      "rosemary"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lavender_thyme"
@@ -2716,10 +2701,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, basil, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "cinnamon"
+      "oregano",
+      "marjoram",
+      "thyme",
+      "za'atar"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lebanese_oregano"
@@ -2750,10 +2735,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "black pepper"
+      "basil",
+      "lemon thyme",
+      "lemon verbena",
+      "lemongrass"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lemon_Basil"
@@ -2786,8 +2771,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lemon_pepper"
@@ -2818,10 +2802,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "spearmint"
+      "thyme",
+      "lemon zest",
+      "lemon basil",
+      "lemongrass"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lemon_thyme"
@@ -2852,9 +2836,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with coconut, chili, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "coconut",
-      "chili",
-      "garlic"
+      "lemon zest",
+      "lemon verbena",
+      "kaffir lime leaves",
+      "citronella"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lemongrass"
@@ -2890,10 +2875,10 @@
     "culinaryContext": "Commonly used in Italy cooking contexts.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with lamb, chocolate, pea. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "lamb"
+      "catnip",
+      "oregano",
+      "thyme",
+      "mint"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lesser_calamint"
@@ -2957,10 +2942,9 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika",
-      "salt"
+      "black pepper",
+      "white pepper",
+      "grains of paradise"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Long_pepper"
@@ -2988,10 +2972,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the culinary plant part or prepared seasoning in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
+      "nutmeg",
       "allspice",
-      "cloves",
-      "garlic"
+      "cinnamon",
+      "cardamom"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mace"
@@ -3060,8 +3044,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Melegueta_pepper"
@@ -3094,10 +3077,9 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with soup, stew, rice. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "parsley",
-      "basil",
-      "oregano",
-      "saffron"
+      "bay leaf",
+      "avocado leaf",
+      "lemon verbena"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mexican_bay_leaf"
@@ -3128,10 +3110,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, basil, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "cinnamon"
+      "oregano",
+      "marjoram",
+      "thyme",
+      "epazote"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mexican_oregano"
@@ -3162,10 +3144,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with lamb, chocolate, pea. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "lamb"
+      "spearmint",
+      "peppermint",
+      "basil",
+      "tarragon"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mint"
@@ -3200,8 +3182,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mountain_pepper"
@@ -3404,10 +3385,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the culinary plant part or prepared seasoning in small measured amounts, then adjust after tasting. It works especially well with cinnamon, cream, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
+      "mace",
       "allspice",
-      "cloves",
-      "cream"
+      "cinnamon",
+      "cardamom"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Nutmeg"
@@ -3438,10 +3419,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, basil, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "cinnamon"
+      "thyme",
+      "marjoram",
+      "basil",
+      "Italian seasoning"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Oregano"
@@ -3472,10 +3453,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, tomato. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "smoked paprika"
+      "chili powder",
+      "cayenne (smaller amount)",
+      "ancho chili powder",
+      "tomato flakes"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Paprika"
@@ -3506,9 +3487,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, butter. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "garlic",
-      "lemon",
-      "butter"
+      "cilantro",
+      "chervil",
+      "basil",
+      "celery leaves"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Parsley"
@@ -3541,8 +3523,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Pepper_X"
@@ -3573,10 +3554,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with lamb, chocolate, pea. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "lamb"
+      "spearmint",
+      "mint",
+      "basil"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Peppermint"
@@ -3609,8 +3589,7 @@
     "substitutes": [
       "cinnamon",
       "nutmeg",
-      "allspice",
-      "lamb"
+      "allspice"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Peppermint_gum_leaf"
@@ -3643,8 +3622,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Peruvian_pepper"
@@ -3706,7 +3684,6 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with lemon, cream cheese, honey. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "lemon",
       "cream cheese",
       "honey"
     ],
@@ -3741,8 +3718,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Rocoto_pepper"
@@ -3773,10 +3749,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with lamb, potato, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "black pepper",
-      "white pepper",
-      "grains of paradise",
-      "lamb"
+      "thyme",
+      "oregano",
+      "sage",
+      "tarragon"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Rosemary"
@@ -3807,10 +3783,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the flower or stigma in small measured amounts, then adjust after tasting. It works especially well with rice, seafood, cardamom. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "rose",
-      "lavender",
-      "rice",
-      "seafood"
+      "turmeric (color)",
+      "annatto (color)",
+      "safflower",
+      "marigold petals"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Saffron"
@@ -3841,10 +3817,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with butter, pork, squash. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "butter"
+      "rosemary",
+      "thyme",
+      "oregano",
+      "marjoram"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Sage"
@@ -3984,8 +3960,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Sichuan_pepper"
@@ -4049,10 +4024,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with lamb, chocolate, pea. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "lamb"
+      "mint",
+      "peppermint",
+      "basil",
+      "lemon balm"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Spearmint"
@@ -4085,10 +4060,9 @@
     "culinaryContext": "Commonly used in China cooking contexts.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cinnamon, clove, ginger. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "cloves"
+      "anise seeds",
+      "fennel seeds",
+      "five-spice powder"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Star_anise"
@@ -4119,9 +4093,7 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, butter. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "garlic",
-      "lemon",
-      "butter"
+      "garlic"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Stone_parsley"
@@ -4152,9 +4124,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salad, hummus, onion. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "salad",
-      "hummus",
-      "onion"
+      "lemon zest",
+      "tamarind",
+      "citric acid",
+      "pomegranate molasses"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Sumac"
@@ -4221,8 +4194,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Sweet_piquant_pepper"
@@ -4255,10 +4227,9 @@
     "culinaryContext": "Commonly used in China cooking contexts.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika",
-      "salt"
+      "pink peppercorns",
+      "black pepper",
+      "grains of paradise"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Szechuan_pepper"
@@ -4289,10 +4260,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with chicken, egg, mustard. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "fennel seed",
-      "anise",
-      "star anise",
-      "black pepper"
+      "basil",
+      "chervil",
+      "fennel fronds",
+      "anise hyssop"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Tarragon"
@@ -4325,8 +4296,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Tasmanian_pepper"
@@ -4391,10 +4361,10 @@
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "turmeric",
-      "spearmint"
+      "oregano",
+      "rosemary",
+      "marjoram",
+      "savory"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Thyme"
@@ -4463,10 +4433,10 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with black pepper, ginger, coconut. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cumin",
-      "coriander",
-      "fenugreek",
-      "bay leaf"
+      "saffron (color only)",
+      "annatto",
+      "mustard powder",
+      "curry powder"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Turmeric"
@@ -4497,10 +4467,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with chocolate, cream, coffee. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "saffron"
+      "maple extract",
+      "almond extract",
+      "tonka bean"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Vanilla"
@@ -4601,8 +4570,7 @@
     "substitutes": [
       "cayenne",
       "chili pepper",
-      "paprika",
-      "salt"
+      "paprika"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Water_pepper"
