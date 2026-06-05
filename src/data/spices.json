@@ -51,21 +51,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "stews",
+      "grilled fish",
+      "okra",
+      "ginger",
+      "citrus"
     ],
     "heatLevel": 3,
-    "description": "Alligator pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Alligator pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with stews, grilled fish, okra, ginger, citrus, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Commonly used in West Africa cooking contexts.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with stews, grilled fish, okra. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
       "grains of paradise",
       "black pepper",
-      "cayenne"
+      "cardamom"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Alligator_pepper"
@@ -325,21 +325,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "soups",
+      "palm oil",
+      "fish",
+      "ginger",
+      "tomato"
     ],
     "heatLevel": 3,
-    "description": "Ashanti pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Ashanti pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with soups, palm oil, fish, ginger, tomato, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with soups, palm oil, fish. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "black pepper",
+      "alligator pepper",
       "grains of paradise",
-      "cayenne"
+      "black pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Ashanti_pepper"
@@ -358,21 +358,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "harissa",
+      "couscous",
+      "lamb",
+      "tomato",
+      "coriander"
     ],
     "heatLevel": 3,
-    "description": "Baklouti pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Baklouti pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with harissa, couscous, lamb, tomato, coriander, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with harissa, couscous, lamb. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "chili pepper",
-      "cayenne",
-      "harissa"
+      "Aleppo pepper",
+      "Fresno chili",
+      "cayenne"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Baklouti_pepper"
@@ -391,21 +391,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "pizza",
+      "sandwiches",
+      "vinegar",
+      "sausage",
+      "cheese"
     ],
     "heatLevel": 3,
-    "description": "Banana pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Banana pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with pizza, sandwiches, vinegar, sausage, cheese, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with pizza, sandwiches, vinegar. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
       "pepperoncini",
       "Anaheim pepper",
-      "sweet paprika"
+      "poblano"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Banana_pepper"
@@ -425,19 +425,19 @@
     ],
     "pairings": [
       "tomato",
-      "mozzarella",
       "garlic",
-      "olive oil",
-      "pine nuts"
+      "lime",
+      "coconut milk",
+      "chili"
     ],
     "heatLevel": 0,
-    "description": "Basil is a culinary herb with sweet, peppery, anise-like notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with tomato, mozzarella, garlic, olive oil, pine nuts, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It is not a hot ingredient, so cooks usually value it for aroma, depth, and freshness rather than chile heat. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Basil is a leafy culinary herb valued for fresh aroma rather than heat. It pairs especially well with tomato, garlic, lime, coconut milk, chili, and its substitutes should stay within nearby leafy herbs, not warm baking spices.",
     "usedPart": "leaf",
-    "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
-    "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
+    "culinaryContext": "Fresh basil varieties are used as aromatic leafy herbs in Mediterranean and Southeast Asian cooking.",
+    "howToUse": "Add fresh leaves near the end of cooking for aroma, or bruise them into sauces, salads, curries, and herb pastes. Use dried basil earlier in simmered dishes.",
     "substitutes": [
       "oregano",
-      "thyme",
+      "holy basil",
       "mint",
       "tarragon"
     ],
@@ -492,57 +492,24 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "pickles",
+      "sausages",
+      "eggs",
+      "cheese",
+      "potato"
     ],
     "heatLevel": 3,
-    "description": "Beaver Dam pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Beaver Dam pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with pickles, sausages, eggs, cheese, potato, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with pickles, sausages, eggs. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
       "banana pepper",
-      "pepperoncini",
+      "Hungarian wax pepper",
       "Anaheim pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Beaver_Dam_pepper"
-  },
-  {
-    "name": "Bell pepper",
-    "slug": "bell-pepper",
-    "scientificName": "",
-    "alternateNames": [],
-    "type": "spice",
-    "cuisines": [],
-    "letter": "B",
-    "flavors": [
-      "hot",
-      "sharp",
-      "woody"
-    ],
-    "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
-    ],
-    "heatLevel": 3,
-    "description": "Bell pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
-    "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
-    "substitutes": [
-      "sweet paprika",
-      "piquillo pepper",
-      "roasted red pepper"
-    ],
-    "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Bell_pepper"
   },
   {
     "name": "Black cardamom",
@@ -630,21 +597,20 @@
     ],
     "pairings": [
       "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "beef",
+      "eggs",
+      "mushrooms",
+      "cream sauces"
     ],
     "heatLevel": 3,
-    "description": "Black pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Black pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with salt, beef, eggs, mushrooms, cream sauces, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with salt, beef, eggs. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
       "white pepper",
       "grains of paradise",
-      "pink pepper",
-      "Szechuan pepper"
+      "pink peppercorn"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Black_pepper"
@@ -733,21 +699,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "seafood",
+      "citrus",
+      "cream",
+      "salads",
+      "goat cheese"
     ],
     "heatLevel": 3,
-    "description": "Brazilian pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Brazilian pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with seafood, citrus, cream, salads, goat cheese, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with seafood, citrus, cream. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "black pepper",
-      "pink pepper",
-      "Szechuan pepper"
+      "pink peppercorn",
+      "green peppercorn",
+      "black pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Brazilian_pepper"
@@ -1000,22 +966,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
+      "beans",
+      "tomato",
       "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "cumin",
+      "lime"
     ],
     "heatLevel": 3,
-    "description": "Chili pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Chili pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with beans, tomato, garlic, cumin, lime, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with beans, tomato, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
       "cayenne",
-      "chili powder",
       "red pepper flakes",
-      "paprika"
+      "chili powder"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Chili_pepper"
@@ -1231,40 +1196,6 @@
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Cinnamon_myrtle"
-  },
-  {
-    "name": "Cinnamon sugar",
-    "slug": "cinnamon-sugar",
-    "scientificName": "",
-    "alternateNames": [],
-    "type": "spice",
-    "cuisines": [],
-    "letter": "C",
-    "flavors": [
-      "sweet",
-      "warm",
-      "woody"
-    ],
-    "pairings": [
-      "apple",
-      "chocolate",
-      "coffee",
-      "honey",
-      "cardamom"
-    ],
-    "heatLevel": 1,
-    "description": "Cinnamon sugar is a culinary spice with sweet, warm, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with apple, chocolate, coffee, honey, cardamom, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
-    "usedPart": "bark",
-    "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
-    "howToUse": "Use the bark in small measured amounts, then adjust after tasting. It works especially well with apple, chocolate, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
-    "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "cloves"
-    ],
-    "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Cinnamon_sugar"
   },
   {
     "name": "Clove",
@@ -1555,21 +1486,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
+      "pizza",
+      "tomato sauce",
       "garlic",
-      "lemon",
       "olive oil",
-      "steak"
+      "pasta"
     ],
     "heatLevel": 3,
-    "description": "Crushed red pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Crushed red pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with pizza, tomato sauce, garlic, olive oil, pasta, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with pizza, tomato sauce, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
+      "red pepper flakes",
       "cayenne",
-      "chili pepper",
-      "paprika"
+      "Calabrian chili"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Crushed_red_pepper"
@@ -1704,9 +1635,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with salmon, cucumber, yogurt. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "salmon",
-      "cucumber",
-      "yogurt"
+      "fennel fronds",
+      "tarragon",
+      "anise seed"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Dill_Dill_seed"
@@ -1737,9 +1668,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with salmon, cucumber, yogurt. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "salmon",
-      "cucumber",
-      "yogurt"
+      "fennel fronds",
+      "tarragon",
+      "anise seed"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Dill_seed"
@@ -1772,9 +1703,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with salmon, cucumber, yogurt. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
     "substitutes": [
-      "salmon",
-      "cucumber",
-      "yogurt"
+      "fennel fronds",
+      "tarragon",
+      "anise seed"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Dill_weed"
@@ -1795,21 +1726,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "bush tomato",
+      "game meats",
+      "roasted vegetables",
+      "lemon myrtle",
+      "macadamia"
     ],
     "heatLevel": 3,
-    "description": "Dorrigo pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Dorrigo pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with bush tomato, game meats, roasted vegetables, lemon myrtle, macadamia, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Commonly used in Australia cooking contexts.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with bush tomato, game meats, roasted vegetables. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "Tasmanian pepper",
+      "black pepper",
+      "mountain pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Dorrigo_pepper"
@@ -1830,9 +1761,11 @@
       "aromatic"
     ],
     "pairings": [
-      "garlic",
-      "onion",
-      "ginger"
+      "chocolate",
+      "cream",
+      "vanilla",
+      "macadamia",
+      "bush honey"
     ],
     "heatLevel": 1,
     "description": "Elegant wattleseed is a culinary spice with warm, aromatic notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, onion, ginger, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -1840,10 +1773,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "coffee",
+      "cocoa nibs",
+      "roasted chicory"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Elegant_wattleseed"
@@ -1999,9 +1931,11 @@
       "aromatic"
     ],
     "pairings": [
-      "garlic",
-      "onion",
-      "ginger"
+      "coconut milk",
+      "lime",
+      "chili",
+      "fish sauce",
+      "turmeric"
     ],
     "heatLevel": 1,
     "description": "Galangal is a culinary spice with warm, aromatic notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, onion, ginger, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -2009,10 +1943,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "ginger",
+      "fingerroot",
+      "lemongrass"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Galangal"
@@ -2120,40 +2053,6 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Garlic_powder"
   },
   {
-    "name": "Garlic salt",
-    "slug": "garlic-salt",
-    "scientificName": "",
-    "alternateNames": [],
-    "type": "spice",
-    "cuisines": [],
-    "letter": "G",
-    "flavors": [
-      "pungent",
-      "savory",
-      "slightly sweet"
-    ],
-    "pairings": [
-      "onion",
-      "ginger",
-      "olive oil",
-      "lemon",
-      "chili"
-    ],
-    "heatLevel": 1,
-    "description": "Garlic salt is a culinary spice with pungent, savory, slightly sweet notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with onion, ginger, olive oil, lemon, chili, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
-    "usedPart": "bulb",
-    "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
-    "howToUse": "Use the bulb in small measured amounts, then adjust after tasting. It works especially well with onion, ginger, olive oil. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
-    "substitutes": [
-      "garlic powder",
-      "onion powder",
-      "mustard seed",
-      "onion"
-    ],
-    "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Garlic_salt"
-  },
-  {
     "name": "Ginger",
     "slug": "ginger",
     "scientificName": "",
@@ -2202,9 +2101,11 @@
       "aromatic"
     ],
     "pairings": [
-      "garlic",
-      "onion",
-      "ginger"
+      "coconut milk",
+      "lime",
+      "chili",
+      "fish sauce",
+      "turmeric"
     ],
     "heatLevel": 1,
     "description": "Greater galangal is a culinary spice with warm, aromatic notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, onion, ginger, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -2212,10 +2113,9 @@
     "culinaryContext": "Commonly used in Indonesia cooking contexts.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "ginger",
+      "fingerroot",
+      "lemongrass"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Greater_galangal"
@@ -2551,21 +2451,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
+      "noodles",
+      "stir-fries",
       "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "soy sauce",
+      "sesame"
     ],
     "heatLevel": 3,
-    "description": "Kani pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Kani pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with noodles, stir-fries, garlic, soy sauce, sesame, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with noodles, stir-fries, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
+      "bird eye chili",
       "cayenne",
-      "chili pepper",
-      "paprika"
+      "Thai chili"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Kani_pepper"
@@ -2585,9 +2485,11 @@
       "aromatic"
     ],
     "pairings": [
-      "garlic",
-      "onion",
-      "ginger"
+      "rice",
+      "kimchi",
+      "sesame oil",
+      "soy sauce",
+      "garlic"
     ],
     "heatLevel": 1,
     "description": "Korean perilla seeds is a culinary spice with warm, aromatic notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, onion, ginger, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -2595,10 +2497,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "sesame seed",
+      "shiso",
+      "nigella seed"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Korean_perilla_seeds"
@@ -2757,21 +2658,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
+      "chicken",
+      "fish",
+      "butter",
       "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "green beans"
     ],
     "heatLevel": 3,
-    "description": "Lemon pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Lemon pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with chicken, fish, butter, garlic, green beans, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with chicken, fish, butter. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "black pepper with lemon zest",
+      "sumac",
+      "white pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lemon_pepper"
@@ -2898,9 +2799,11 @@
       "aromatic"
     ],
     "pairings": [
-      "garlic",
-      "onion",
-      "ginger"
+      "coconut milk",
+      "lime",
+      "chili",
+      "fish sauce",
+      "turmeric"
     ],
     "heatLevel": 1,
     "description": "Lesser galangal is a culinary spice with warm, aromatic notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, onion, ginger, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -2908,10 +2811,9 @@
     "culinaryContext": "Commonly used in Indonesia cooking contexts.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "ginger",
+      "fingerroot",
+      "lemongrass"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lesser_galangal"
@@ -2930,21 +2832,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "curries",
+      "lentils",
+      "honey",
+      "ginger",
+      "roasted meat"
     ],
     "heatLevel": 3,
-    "description": "Long pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Long pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with curries, lentils, honey, ginger, roasted meat, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with curries, lentils, honey. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
       "black pepper",
-      "white pepper",
-      "grains of paradise"
+      "grains of paradise",
+      "cubeb pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Long_pepper"
@@ -2994,11 +2896,11 @@
       "citrusy"
     ],
     "pairings": [
-      "garlic",
-      "soy sauce",
-      "lemon",
-      "honey",
-      "turmeric"
+      "coconut milk",
+      "lime",
+      "fish",
+      "chili",
+      "lemongrass"
     ],
     "heatLevel": 3,
     "description": "Mango-ginger is a culinary spice with spicy, warm, citrusy notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, soy sauce, lemon, honey, turmeric, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -3006,10 +2908,9 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, soy sauce, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "ginger",
+      "galangal",
+      "turmeric"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mango_ginger"
@@ -3030,21 +2931,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "stews",
+      "plantain",
+      "fish",
+      "ginger",
+      "coconut"
     ],
     "heatLevel": 3,
-    "description": "Melegueta pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Melegueta pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with stews, plantain, fish, ginger, coconut, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "seed",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with stews, plantain, fish. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "grains of paradise",
+      "alligator pepper",
+      "black pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Melegueta_pepper"
@@ -3168,21 +3069,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "game meats",
+      "roasted roots",
+      "berries",
+      "mushrooms",
+      "cheese"
     ],
     "heatLevel": 3,
-    "description": "Mountain pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Mountain pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with game meats, roasted roots, berries, mushrooms, cheese, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with game meats, roasted roots, berries. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "Tasmanian pepper",
+      "black pepper",
+      "Dorrigo pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mountain_pepper"
@@ -3201,11 +3102,11 @@
       "tangy"
     ],
     "pairings": [
-      "ham",
-      "sausage",
-      "cheese",
       "vinegar",
-      "honey"
+      "honey",
+      "sausages",
+      "cheese",
+      "pickles"
     ],
     "heatLevel": 3,
     "description": "Mustard is a culinary spice with sharp, pungent, tangy notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with ham, sausage, cheese, vinegar, honey, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -3213,10 +3114,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with ham, sausage, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "garlic powder",
-      "onion powder",
-      "mustard seed",
-      "ham"
+      "mustard powder",
+      "prepared mustard",
+      "horseradish",
+      "wasabi"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mustard"
@@ -3235,11 +3136,11 @@
       "tangy"
     ],
     "pairings": [
-      "ham",
-      "sausage",
-      "cheese",
       "vinegar",
-      "honey"
+      "honey",
+      "sausages",
+      "cheese",
+      "pickles"
     ],
     "heatLevel": 3,
     "description": "Mustard, black is a culinary spice with sharp, pungent, tangy notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with ham, sausage, cheese, vinegar, honey, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -3247,10 +3148,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with ham, sausage, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "garlic powder",
-      "onion powder",
-      "mustard seed",
-      "ham"
+      "mustard powder",
+      "prepared mustard",
+      "horseradish",
+      "wasabi"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mustard_black"
@@ -3269,11 +3170,11 @@
       "tangy"
     ],
     "pairings": [
-      "ham",
-      "sausage",
-      "cheese",
       "vinegar",
-      "honey"
+      "honey",
+      "sausages",
+      "cheese",
+      "pickles"
     ],
     "heatLevel": 3,
     "description": "Mustard, brown is a culinary spice with sharp, pungent, tangy notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with ham, sausage, cheese, vinegar, honey, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -3281,10 +3182,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with ham, sausage, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "garlic powder",
-      "onion powder",
-      "mustard seed",
-      "ham"
+      "mustard powder",
+      "prepared mustard",
+      "horseradish",
+      "wasabi"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mustard_brown"
@@ -3303,11 +3204,11 @@
       "tangy"
     ],
     "pairings": [
-      "ham",
-      "sausage",
-      "cheese",
       "vinegar",
-      "honey"
+      "honey",
+      "sausages",
+      "cheese",
+      "pickles"
     ],
     "heatLevel": 3,
     "description": "Mustard, white is a culinary spice with sharp, pungent, tangy notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with ham, sausage, cheese, vinegar, honey, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -3315,10 +3216,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with ham, sausage, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "garlic powder",
-      "onion powder",
-      "mustard seed",
-      "ham"
+      "mustard powder",
+      "prepared mustard",
+      "horseradish",
+      "wasabi"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mustard_white"
@@ -3339,11 +3240,11 @@
       "tangy"
     ],
     "pairings": [
-      "ham",
-      "sausage",
-      "cheese",
       "vinegar",
-      "honey"
+      "honey",
+      "sausages",
+      "cheese",
+      "pickles"
     ],
     "heatLevel": 3,
     "description": "Mustard, yellow is a culinary spice with sharp, pungent, tangy notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with ham, sausage, cheese, vinegar, honey, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -3351,10 +3252,10 @@
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with ham, sausage, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "garlic powder",
-      "onion powder",
-      "mustard seed",
-      "ham"
+      "mustard powder",
+      "prepared mustard",
+      "horseradish",
+      "wasabi"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mustard_yellow"
@@ -3509,21 +3410,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
+      "hot sauce",
+      "vinegar",
       "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "mango",
+      "tacos"
     ],
     "heatLevel": 3,
-    "description": "Pepper X is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Pepper X is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with hot sauce, vinegar, garlic, mango, tacos, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with hot sauce, vinegar, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "Carolina Reaper",
+      "ghost pepper",
+      "habanero"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Pepper_X"
@@ -3608,21 +3509,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "ceviche",
+      "corn",
+      "potato",
+      "lime",
+      "cilantro"
     ],
     "heatLevel": 3,
-    "description": "Peruvian pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Peruvian pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with ceviche, corn, potato, lime, cilantro, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with ceviche, corn, potato. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "aji amarillo",
+      "rocoto",
+      "Fresno chili"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Peruvian_pepper"
@@ -3640,9 +3541,11 @@
       "aromatic"
     ],
     "pairings": [
-      "garlic",
-      "onion",
-      "ginger"
+      "lamb",
+      "yogurt",
+      "mint",
+      "rice",
+      "walnuts"
     ],
     "heatLevel": 1,
     "description": "Pomegranate seed is a culinary spice with warm, aromatic notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, onion, ginger, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -3650,10 +3553,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "sumac",
+      "dried cranberry",
+      "tamarind"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Pomegranate_seed"
@@ -3704,21 +3606,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "potato",
+      "cheese",
+      "lime",
+      "cilantro",
+      "beans"
     ],
     "heatLevel": 3,
-    "description": "Rocoto pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Rocoto pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with potato, cheese, lime, cilantro, beans, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with potato, cheese, lime. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "aji amarillo",
+      "Fresno chili",
+      "habanero"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Rocoto_pepper"
@@ -3845,11 +3747,11 @@
       "citrusy"
     ],
     "pairings": [
-      "garlic",
-      "soy sauce",
-      "lemon",
-      "honey",
-      "turmeric"
+      "coconut milk",
+      "lime",
+      "fish",
+      "chili",
+      "lemongrass"
     ],
     "heatLevel": 3,
     "description": "Sand ginger is a culinary spice with spicy, warm, citrusy notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, soy sauce, lemon, honey, turmeric, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -3857,10 +3759,9 @@
     "culinaryContext": "Commonly used in Java cooking contexts.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, soy sauce, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "ginger",
+      "galangal",
+      "turmeric"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Sand_ginger"
@@ -3881,9 +3782,11 @@
       "aromatic"
     ],
     "pairings": [
-      "garlic",
-      "onion",
-      "ginger"
+      "chocolate",
+      "cream",
+      "vanilla",
+      "macadamia",
+      "bush honey"
     ],
     "heatLevel": 1,
     "description": "Sandplain wattleseed is a culinary spice with warm, aromatic notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, onion, ginger, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -3891,10 +3794,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "coffee",
+      "cocoa nibs",
+      "roasted chicory"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Sandplain_wattleseed"
@@ -3946,21 +3848,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
+      "chili oil",
+      "ginger",
       "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "pork",
+      "noodles"
     ],
     "heatLevel": 3,
-    "description": "Sichuan pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Sichuan pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with chili oil, ginger, garlic, pork, noodles, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with chili oil, ginger, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "Szechuan pepper",
+      "sansho",
+      "black pepper with coriander"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Sichuan_pepper"
@@ -4153,15 +4055,15 @@
       "pine nuts"
     ],
     "heatLevel": 0,
-    "description": "Sweet Basil is a culinary herb with sweet, peppery, anise-like notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with tomato, mozzarella, garlic, olive oil, pine nuts, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It is not a hot ingredient, so cooks usually value it for aroma, depth, and freshness rather than chile heat. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Sweet Basil is a leafy culinary herb valued for fresh aroma rather than heat. It pairs especially well with tomato, mozzarella, garlic, olive oil, pine nuts, and its substitutes should stay within nearby leafy herbs, not warm baking spices.",
     "usedPart": "leaf",
-    "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
-    "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
+    "culinaryContext": "Fresh basil varieties are used as aromatic leafy herbs in Mediterranean and Southeast Asian cooking.",
+    "howToUse": "Add fresh leaves near the end of cooking for aroma, or bruise them into sauces, salads, curries, and herb pastes. Use dried basil earlier in simmered dishes.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "black pepper"
+      "basil",
+      "oregano",
+      "mint",
+      "tarragon"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Sweet_Basil"
@@ -4180,21 +4082,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "cheese",
+      "olives",
+      "chicken",
+      "salads",
+      "cream cheese"
     ],
     "heatLevel": 3,
-    "description": "Sweet piquanté pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Sweet piquanté pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with cheese, olives, chicken, salads, cream cheese, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with cheese, olives, chicken. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "peppadew-style peppers",
+      "roasted red pepper",
+      "cherry pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Sweet_piquant_pepper"
@@ -4215,21 +4117,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "chili oil",
+      "star anise",
+      "ginger",
+      "noodles",
+      "tofu"
     ],
     "heatLevel": 3,
-    "description": "Szechuan pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Szechuan pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with chili oil, star anise, ginger, noodles, tofu, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Commonly used in China cooking contexts.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with chili oil, star anise, ginger. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "pink peppercorns",
-      "black pepper",
-      "grains of paradise"
+      "Sichuan pepper",
+      "sansho",
+      "pink peppercorn"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Szechuan_pepper"
@@ -4282,21 +4184,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "game",
+      "berries",
+      "roasted vegetables",
+      "mushrooms",
+      "dark chocolate"
     ],
     "heatLevel": 3,
-    "description": "Tasmanian pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Tasmanian pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with game, berries, roasted vegetables, mushrooms, dark chocolate, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with game, berries, roasted vegetables. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "mountain pepper",
+      "Dorrigo pepper",
+      "black pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Tasmanian_pepper"
@@ -4315,22 +4217,22 @@
       "anise-like"
     ],
     "pairings": [
-      "tomato",
-      "mozzarella",
-      "garlic",
-      "olive oil",
-      "pine nuts"
+      "lime",
+      "chili",
+      "coconut milk",
+      "fish sauce",
+      "garlic"
     ],
     "heatLevel": 0,
-    "description": "Thai basil is a culinary herb with sweet, peppery, anise-like notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with tomato, mozzarella, garlic, olive oil, pine nuts, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It is not a hot ingredient, so cooks usually value it for aroma, depth, and freshness rather than chile heat. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Thai basil is a leafy culinary herb valued for fresh aroma rather than heat. It pairs especially well with lime, chili, coconut milk, fish sauce, garlic, and its substitutes should stay within nearby leafy herbs, not warm baking spices.",
     "usedPart": "leaf",
-    "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
-    "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
+    "culinaryContext": "Fresh basil varieties are used as aromatic leafy herbs in Mediterranean and Southeast Asian cooking.",
+    "howToUse": "Add fresh leaves near the end of cooking for aroma, or bruise them into sauces, salads, curries, and herb pastes. Use dried basil earlier in simmered dishes.",
     "substitutes": [
-      "cinnamon",
-      "nutmeg",
-      "allspice",
-      "black pepper"
+      "holy basil",
+      "sweet basil",
+      "mint",
+      "cilantro"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Thai_basil"
@@ -4387,11 +4289,11 @@
       "citrusy"
     ],
     "pairings": [
-      "garlic",
-      "soy sauce",
-      "lemon",
-      "honey",
-      "turmeric"
+      "coconut milk",
+      "lime",
+      "fish",
+      "chili",
+      "lemongrass"
     ],
     "heatLevel": 3,
     "description": "Torch ginger is a culinary spice with spicy, warm, citrusy notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, soy sauce, lemon, honey, turmeric, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -4399,10 +4301,9 @@
     "culinaryContext": "Commonly used in Indonesia cooking contexts.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, soy sauce, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "ginger",
+      "galangal",
+      "turmeric"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Torch_ginger"
@@ -4556,21 +4457,21 @@
       "woody"
     ],
     "pairings": [
-      "salt",
-      "garlic",
-      "lemon",
-      "olive oil",
-      "steak"
+      "sashimi",
+      "buckwheat noodles",
+      "pickles",
+      "fish",
+      "rice"
     ],
     "heatLevel": 3,
-    "description": "Water-pepper is a culinary spice with hot, sharp, woody notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with salt, garlic, lemon, olive oil, steak, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
+    "description": "Water-pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with sashimi, buckwheat noodles, pickles, fish, rice, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
-    "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salt, garlic, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
+    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
+    "howToUse": "Use it deliberately with sashimi, buckwheat noodles, pickles. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
     "substitutes": [
-      "cayenne",
-      "chili pepper",
-      "paprika"
+      "sansho",
+      "watercress",
+      "black pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Water_pepper"
@@ -4588,9 +4489,11 @@
       "aromatic"
     ],
     "pairings": [
-      "garlic",
-      "onion",
-      "ginger"
+      "chocolate",
+      "cream",
+      "vanilla",
+      "macadamia",
+      "bush honey"
     ],
     "heatLevel": 1,
     "description": "Wattleseed is a culinary spice with warm, aromatic notes. It is included in SpiceAtlas because it has a specific food use, a usable flavor profile, and practical pairing data rather than a generic Wikipedia navigation entry. In the kitchen it pairs especially well with garlic, onion, ginger, making it useful for sauces, marinades, vegetables, grains, proteins, baking, or spice blends depending on the dish. It has gentle warmth rather than aggressive heat, making it easy to layer into everyday cooking. Start with a small amount, taste as the aroma opens up, and combine it with complementary herbs, spices, salt, fat, or acidity for a balanced result.",
@@ -4598,10 +4501,9 @@
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
     "substitutes": [
-      "cinnamon",
-      "allspice",
-      "cloves",
-      "garlic"
+      "coffee",
+      "cocoa nibs",
+      "roasted chicory"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Wattleseed"
