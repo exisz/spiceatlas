@@ -1,0 +1,29 @@
+{
+  "_note": "b2-overhaul-545 corrections: de-template pepper flavors+heat (Probe b2-probe-613 D2: 23 shared hot/sharp/woody) and fix herb/spice misclassification (D1: Dill/Peppermint/Coriander leaf).",
+  "reclassify_herb": ["dill", "peppermint", "coriander-leaf"],
+  "pepper_fixes": {
+    "black-pepper": { "flavors": ["pungent", "woody", "warm"], "heatLevel": 1 },
+    "long-pepper": { "flavors": ["pungent", "sweet", "earthy"], "heatLevel": 1 },
+    "ashanti-pepper": { "flavors": ["pungent", "resinous", "citrusy"], "heatLevel": 1 },
+    "kani-pepper": { "flavors": ["pungent", "earthy", "woody"], "heatLevel": 1 },
+    "water-pepper": { "flavors": ["pungent", "biting", "grassy"], "heatLevel": 2 },
+    "sichuan-pepper": { "flavors": ["citrusy", "tingling", "floral"], "heatLevel": 1 },
+    "szechuan-pepper": { "flavors": ["citrusy", "tingling", "floral"], "heatLevel": 1 },
+    "tasmanian-pepper": { "flavors": ["fruity", "peppery", "pungent"], "heatLevel": 2 },
+    "mountain-pepper": { "flavors": ["fruity", "peppery", "aromatic"], "heatLevel": 2 },
+    "dorrigo-pepper": { "flavors": ["fruity", "peppery", "woody"], "heatLevel": 1 },
+    "brazilian-pepper": { "flavors": ["sweet", "fruity", "resinous"], "heatLevel": 0 },
+    "peruvian-pepper": { "flavors": ["sweet", "fruity", "peppery"], "heatLevel": 0 },
+    "alligator-pepper": { "flavors": ["peppery", "citrusy", "camphor"], "heatLevel": 1 },
+    "melegueta-pepper": { "flavors": ["peppery", "citrusy", "warm"], "heatLevel": 1 },
+    "lemon-pepper": { "flavors": ["citrusy", "peppery", "savory"], "heatLevel": 1 },
+    "crushed-red-pepper": { "flavors": ["hot", "fruity", "smoky"], "heatLevel": 3 },
+    "chili-pepper": { "flavors": ["hot", "fruity", "sharp"], "heatLevel": 3 },
+    "pepper-x": { "flavors": ["hot", "fruity", "sweet"], "heatLevel": 5 },
+    "rocoto-pepper": { "flavors": ["hot", "fruity", "grassy"], "heatLevel": 4 },
+    "baklouti-pepper": { "flavors": ["hot", "fruity", "earthy"], "heatLevel": 3 },
+    "banana-pepper": { "flavors": ["tangy", "sweet", "mild"], "heatLevel": 1 },
+    "beaver-dam-pepper": { "flavors": ["sweet", "fruity", "mild"], "heatLevel": 1 },
+    "sweet-piquante-pepper": { "flavors": ["sweet", "tangy", "fruity"], "heatLevel": 1 }
+  }
+}

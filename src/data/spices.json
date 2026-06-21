@@ -46,9 +46,9 @@
     ],
     "letter": "A",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "peppery",
+      "citrusy",
+      "camphor"
     ],
     "pairings": [
       "stews",
@@ -57,11 +57,11 @@
       "ginger",
       "citrus"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Alligator pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with stews, grilled fish, okra, ginger, citrus, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with stews, grilled fish, okra. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its peppery, citrusy, camphor character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with stews, grilled fish, okra. It brings peppery, citrusy, camphor notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "grains of paradise",
       "black pepper",
@@ -320,9 +320,9 @@
     "cuisines": [],
     "letter": "A",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "pungent",
+      "resinous",
+      "citrusy"
     ],
     "pairings": [
       "soups",
@@ -331,11 +331,11 @@
       "ginger",
       "tomato"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Ashanti pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with soups, palm oil, fish, ginger, tomato, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with soups, palm oil, fish. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its pungent, resinous, citrusy character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with soups, palm oil, fish. It brings pungent, resinous, citrusy notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "alligator pepper",
       "grains of paradise",
@@ -354,8 +354,8 @@
     "letter": "B",
     "flavors": [
       "hot",
-      "sharp",
-      "woody"
+      "fruity",
+      "earthy"
     ],
     "pairings": [
       "harissa",
@@ -367,8 +367,8 @@
     "heatLevel": 3,
     "description": "Baklouti pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with harissa, couscous, lamb, tomato, coriander, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with harissa, couscous, lamb. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its hot, fruity, earthy character (noticeable heat) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with harissa, couscous, lamb. It brings hot, fruity, earthy notes with noticeable heat, so start small and adjust to taste.",
     "substitutes": [
       "Aleppo pepper",
       "Fresno chili",
@@ -386,9 +386,9 @@
     "cuisines": [],
     "letter": "B",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "tangy",
+      "sweet",
+      "mild"
     ],
     "pairings": [
       "pizza",
@@ -397,11 +397,11 @@
       "sausage",
       "cheese"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Banana pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with pizza, sandwiches, vinegar, sausage, cheese, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with pizza, sandwiches, vinegar. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its tangy, sweet, mild character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with pizza, sandwiches, vinegar. It brings tangy, sweet, mild notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "pepperoncini",
       "Anaheim pepper",
@@ -487,9 +487,9 @@
     "cuisines": [],
     "letter": "B",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "sweet",
+      "fruity",
+      "mild"
     ],
     "pairings": [
       "pickles",
@@ -498,11 +498,11 @@
       "cheese",
       "potato"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Beaver Dam pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with pickles, sausages, eggs, cheese, potato, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with pickles, sausages, eggs. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its sweet, fruity, mild character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with pickles, sausages, eggs. It brings sweet, fruity, mild notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "banana pepper",
       "Hungarian wax pepper",
@@ -591,9 +591,9 @@
     "cuisines": [],
     "letter": "B",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "pungent",
+      "woody",
+      "warm"
     ],
     "pairings": [
       "salt",
@@ -602,11 +602,11 @@
       "mushrooms",
       "cream sauces"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Black pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with salt, beef, eggs, mushrooms, cream sauces, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with salt, beef, eggs. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its pungent, woody, warm character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with salt, beef, eggs. It brings pungent, woody, warm notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "white pepper",
       "grains of paradise",
@@ -694,9 +694,9 @@
     "cuisines": [],
     "letter": "B",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "sweet",
+      "fruity",
+      "resinous"
     ],
     "pairings": [
       "seafood",
@@ -705,11 +705,11 @@
       "salads",
       "goat cheese"
     ],
-    "heatLevel": 3,
+    "heatLevel": 0,
     "description": "Brazilian pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with seafood, citrus, cream, salads, goat cheese, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with seafood, citrus, cream. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its sweet, fruity, resinous character (no chile heat) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with seafood, citrus, cream. It brings sweet, fruity, resinous notes with no chile heat, so start small and adjust to taste.",
     "substitutes": [
       "pink peppercorn",
       "green peppercorn",
@@ -962,8 +962,8 @@
     "letter": "C",
     "flavors": [
       "hot",
-      "sharp",
-      "woody"
+      "fruity",
+      "sharp"
     ],
     "pairings": [
       "beans",
@@ -975,8 +975,8 @@
     "heatLevel": 3,
     "description": "Chili pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with beans, tomato, garlic, cumin, lime, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with beans, tomato, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its hot, fruity, sharp character (noticeable heat) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with beans, tomato, garlic. It brings hot, fruity, sharp notes with noticeable heat, so start small and adjust to taste.",
     "substitutes": [
       "cayenne",
       "red pepper flakes",
@@ -1339,7 +1339,7 @@
     "slug": "coriander-leaf",
     "scientificName": "",
     "alternateNames": [],
-    "type": "spice",
+    "type": "herb",
     "cuisines": [],
     "letter": "C",
     "flavors": [
@@ -1482,8 +1482,8 @@
     "letter": "C",
     "flavors": [
       "hot",
-      "sharp",
-      "woody"
+      "fruity",
+      "smoky"
     ],
     "pairings": [
       "pizza",
@@ -1495,8 +1495,8 @@
     "heatLevel": 3,
     "description": "Crushed red pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with pizza, tomato sauce, garlic, olive oil, pasta, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with pizza, tomato sauce, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its hot, fruity, smoky character (noticeable heat) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with pizza, tomato sauce, garlic. It brings hot, fruity, smoky notes with noticeable heat, so start small and adjust to taste.",
     "substitutes": [
       "red pepper flakes",
       "cayenne",
@@ -1578,7 +1578,7 @@
     "slug": "dill",
     "scientificName": "Anethum graveolens",
     "alternateNames": [],
-    "type": "spice",
+    "type": "herb",
     "cuisines": [],
     "letter": "D",
     "flavors": [
@@ -1721,8 +1721,8 @@
     ],
     "letter": "D",
     "flavors": [
-      "hot",
-      "sharp",
+      "fruity",
+      "peppery",
       "woody"
     ],
     "pairings": [
@@ -1732,11 +1732,11 @@
       "lemon myrtle",
       "macadamia"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Dorrigo pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with bush tomato, game meats, roasted vegetables, lemon myrtle, macadamia, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with bush tomato, game meats, roasted vegetables. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its fruity, peppery, woody character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with bush tomato, game meats, roasted vegetables. It brings fruity, peppery, woody notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "Tasmanian pepper",
       "black pepper",
@@ -2446,8 +2446,8 @@
     "cuisines": [],
     "letter": "K",
     "flavors": [
-      "hot",
-      "sharp",
+      "pungent",
+      "earthy",
       "woody"
     ],
     "pairings": [
@@ -2457,11 +2457,11 @@
       "soy sauce",
       "sesame"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Kani pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with noodles, stir-fries, garlic, soy sauce, sesame, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with noodles, stir-fries, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its pungent, earthy, woody character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with noodles, stir-fries, garlic. It brings pungent, earthy, woody notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "bird eye chili",
       "cayenne",
@@ -2653,9 +2653,9 @@
     "cuisines": [],
     "letter": "L",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "citrusy",
+      "peppery",
+      "savory"
     ],
     "pairings": [
       "chicken",
@@ -2664,11 +2664,11 @@
       "garlic",
       "green beans"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Lemon pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with chicken, fish, butter, garlic, green beans, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with chicken, fish, butter. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its citrusy, peppery, savory character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with chicken, fish, butter. It brings citrusy, peppery, savory notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "black pepper with lemon zest",
       "sumac",
@@ -2827,9 +2827,9 @@
     "cuisines": [],
     "letter": "L",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "pungent",
+      "sweet",
+      "earthy"
     ],
     "pairings": [
       "curries",
@@ -2838,11 +2838,11 @@
       "ginger",
       "roasted meat"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Long pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with curries, lentils, honey, ginger, roasted meat, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with curries, lentils, honey. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its pungent, sweet, earthy character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with curries, lentils, honey. It brings pungent, sweet, earthy notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "black pepper",
       "grains of paradise",
@@ -2926,9 +2926,9 @@
     "cuisines": [],
     "letter": "M",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "peppery",
+      "citrusy",
+      "warm"
     ],
     "pairings": [
       "stews",
@@ -2937,11 +2937,11 @@
       "ginger",
       "coconut"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Melegueta pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with stews, plantain, fish, ginger, coconut, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "seed",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with stews, plantain, fish. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its peppery, citrusy, warm character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with stews, plantain, fish. It brings peppery, citrusy, warm notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "grains of paradise",
       "alligator pepper",
@@ -3064,9 +3064,9 @@
     "cuisines": [],
     "letter": "M",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "fruity",
+      "peppery",
+      "aromatic"
     ],
     "pairings": [
       "game meats",
@@ -3075,11 +3075,11 @@
       "mushrooms",
       "cheese"
     ],
-    "heatLevel": 3,
+    "heatLevel": 2,
     "description": "Mountain pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with game meats, roasted roots, berries, mushrooms, cheese, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with game meats, roasted roots, berries. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its fruity, peppery, aromatic character (moderate warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with game meats, roasted roots, berries. It brings fruity, peppery, aromatic notes with moderate warmth, so start small and adjust to taste.",
     "substitutes": [
       "Tasmanian pepper",
       "black pepper",
@@ -3406,8 +3406,8 @@
     "letter": "P",
     "flavors": [
       "hot",
-      "sharp",
-      "woody"
+      "fruity",
+      "sweet"
     ],
     "pairings": [
       "hot sauce",
@@ -3416,11 +3416,11 @@
       "mango",
       "tacos"
     ],
-    "heatLevel": 3,
+    "heatLevel": 5,
     "description": "Pepper X is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with hot sauce, vinegar, garlic, mango, tacos, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with hot sauce, vinegar, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its hot, fruity, sweet character (intense, extreme heat) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with hot sauce, vinegar, garlic. It brings hot, fruity, sweet notes with intense, extreme heat, so start small and adjust to taste.",
     "substitutes": [
       "Carolina Reaper",
       "ghost pepper",
@@ -3434,7 +3434,7 @@
     "slug": "peppermint",
     "scientificName": "Mentha piperata",
     "alternateNames": [],
-    "type": "spice",
+    "type": "herb",
     "cuisines": [],
     "letter": "P",
     "flavors": [
@@ -3504,9 +3504,9 @@
     "cuisines": [],
     "letter": "P",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "sweet",
+      "fruity",
+      "peppery"
     ],
     "pairings": [
       "ceviche",
@@ -3515,11 +3515,11 @@
       "lime",
       "cilantro"
     ],
-    "heatLevel": 3,
+    "heatLevel": 0,
     "description": "Peruvian pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with ceviche, corn, potato, lime, cilantro, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with ceviche, corn, potato. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its sweet, fruity, peppery character (no chile heat) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with ceviche, corn, potato. It brings sweet, fruity, peppery notes with no chile heat, so start small and adjust to taste.",
     "substitutes": [
       "aji amarillo",
       "rocoto",
@@ -3602,8 +3602,8 @@
     "letter": "R",
     "flavors": [
       "hot",
-      "sharp",
-      "woody"
+      "fruity",
+      "grassy"
     ],
     "pairings": [
       "potato",
@@ -3612,11 +3612,11 @@
       "cilantro",
       "beans"
     ],
-    "heatLevel": 3,
+    "heatLevel": 4,
     "description": "Rocoto pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with potato, cheese, lime, cilantro, beans, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with potato, cheese, lime. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its hot, fruity, grassy character (strong heat) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with potato, cheese, lime. It brings hot, fruity, grassy notes with strong heat, so start small and adjust to taste.",
     "substitutes": [
       "aji amarillo",
       "Fresno chili",
@@ -3843,9 +3843,9 @@
     "cuisines": [],
     "letter": "S",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "citrusy",
+      "tingling",
+      "floral"
     ],
     "pairings": [
       "chili oil",
@@ -3854,11 +3854,11 @@
       "pork",
       "noodles"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Sichuan pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with chili oil, ginger, garlic, pork, noodles, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with chili oil, ginger, garlic. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its citrusy, tingling, floral character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with chili oil, ginger, garlic. It brings citrusy, tingling, floral notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "Szechuan pepper",
       "sansho",
@@ -4077,9 +4077,9 @@
     "cuisines": [],
     "letter": "S",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "sweet",
+      "tangy",
+      "fruity"
     ],
     "pairings": [
       "cheese",
@@ -4088,11 +4088,11 @@
       "salads",
       "cream cheese"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Sweet piquanté pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with cheese, olives, chicken, salads, cream cheese, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with cheese, olives, chicken. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its sweet, tangy, fruity character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with cheese, olives, chicken. It brings sweet, tangy, fruity notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "peppadew-style peppers",
       "roasted red pepper",
@@ -4112,9 +4112,9 @@
     ],
     "letter": "S",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "citrusy",
+      "tingling",
+      "floral"
     ],
     "pairings": [
       "chili oil",
@@ -4123,11 +4123,11 @@
       "noodles",
       "tofu"
     ],
-    "heatLevel": 3,
+    "heatLevel": 1,
     "description": "Szechuan pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with chili oil, star anise, ginger, noodles, tofu, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with chili oil, star anise, ginger. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its citrusy, tingling, floral character (mild, gentle warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with chili oil, star anise, ginger. It brings citrusy, tingling, floral notes with mild, gentle warmth, so start small and adjust to taste.",
     "substitutes": [
       "Sichuan pepper",
       "sansho",
@@ -4179,9 +4179,9 @@
     "cuisines": [],
     "letter": "T",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "fruity",
+      "peppery",
+      "pungent"
     ],
     "pairings": [
       "game",
@@ -4190,11 +4190,11 @@
       "mushrooms",
       "dark chocolate"
     ],
-    "heatLevel": 3,
+    "heatLevel": 2,
     "description": "Tasmanian pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with game, berries, roasted vegetables, mushrooms, dark chocolate, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with game, berries, roasted vegetables. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its fruity, peppery, pungent character (moderate warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with game, berries, roasted vegetables. It brings fruity, peppery, pungent notes with moderate warmth, so start small and adjust to taste.",
     "substitutes": [
       "mountain pepper",
       "Dorrigo pepper",
@@ -4452,9 +4452,9 @@
     "cuisines": [],
     "letter": "W",
     "flavors": [
-      "hot",
-      "sharp",
-      "woody"
+      "pungent",
+      "biting",
+      "grassy"
     ],
     "pairings": [
       "sashimi",
@@ -4463,11 +4463,11 @@
       "fish",
       "rice"
     ],
-    "heatLevel": 3,
+    "heatLevel": 2,
     "description": "Water-pepper is included as a culinary pepper or pepper-like spice with a specific kitchen role rather than a generic navigation entry. It works especially well with sashimi, buckwheat noodles, pickles, fish, rice, so SpiceAtlas treats it as a defined ingredient with its own pairing profile instead of reusing a single pepper template.",
     "usedPart": "fruit or pod",
-    "culinaryContext": "Used where pepper aroma, chile heat, or peppercorn-style pungency is part of the dish identity.",
-    "howToUse": "Use it deliberately with sashimi, buckwheat noodles, pickles. Start small, then increase after tasting because pepper-style ingredients vary widely in aroma and heat.",
+    "culinaryContext": "Used where its pungent, biting, grassy character (moderate warmth) defines the dish, rather than as a generic pepper substitute.",
+    "howToUse": "Use it deliberately with sashimi, buckwheat noodles, pickles. It brings pungent, biting, grassy notes with moderate warmth, so start small and adjust to taste.",
     "substitutes": [
       "sansho",
       "watercress",
