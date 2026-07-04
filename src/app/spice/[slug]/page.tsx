@@ -22,6 +22,11 @@ interface Spice {
   substitutes?: string[];
   sourceName?: string;
   sourceUrl?: string;
+  sourceSummary?: string;
+  imageUrl?: string;
+  imageAlt?: string;
+  imageCredit?: string;
+  howMuchToUse?: string;
 }
 
 const spices = spicesData as Spice[];
@@ -57,6 +62,7 @@ export default async function SpicePage({ params }: { params: Promise<{ slug: st
         <main className="lg:col-span-2 space-y-6">
           <Hero spice={spice} />
           <About spice={spice} />
+          <ImagePanel spice={spice} />
           <CulinaryStructure spice={spice} />
           <FlavorProfile spice={spice} />
           <AmazonCard spice={spice} />
@@ -86,6 +92,7 @@ function SpiceJsonLd({ spice }: { spice: Spice }) {
     about: spice.name,
     mainEntityOfPage: `/spice/${spice.slug}`,
     citation: spice.sourceUrl || fallbackSource,
+    image: spice.imageUrl,
   }} />;
 }
 
@@ -113,7 +120,15 @@ function Hero({ spice }: { spice: Spice }) {
 }
 
 function About({ spice }: { spice: Spice }) {
-  return <Card title="📖 About"><p className="text-base-content/80 leading-relaxed">{spice.description}</p></Card>;
+  return <Card title="📖 About"><p className="text-base-content/80 leading-relaxed">{spice.description}</p>{spice.sourceSummary && <p className="text-sm text-base-content/60 leading-relaxed mt-3">Source summary: {spice.sourceSummary}</p>}</Card>;
+}
+
+function ImagePanel({ spice }: { spice: Spice }) {
+  if (!spice.imageUrl) return null;
+  return <figure className="card bg-base-100 border border-base-300 overflow-hidden">
+    <img src={spice.imageUrl} alt={spice.imageAlt || `${spice.name} reference image`} className="h-72 w-full object-cover" loading="lazy" />
+    <figcaption className="px-5 py-3 text-xs text-base-content/60">{spice.imageCredit || "Reference image via Wikimedia Commons."}</figcaption>
+  </figure>;
 }
 
 function CulinaryStructure({ spice }: { spice: Spice }) {
@@ -124,7 +139,7 @@ function CulinaryStructure({ spice }: { spice: Spice }) {
       <Info label="Typical cuisines" value={spice.cuisines?.length ? spice.cuisines.join(", ") : spice.culinaryContext || "Used across global cooking traditions."} />
       <div><dt className="font-semibold text-base-content">Source</dt><dd><a href={source} target="_blank" rel="noopener noreferrer" className="link link-primary">{spice.sourceName || "Wikipedia culinary herb and spice references"}</a></dd></div>
     </dl></Card>
-    <Card title="🍳 How to Use"><p className="text-sm leading-relaxed text-base-content/75">{spice.howToUse || `Use ${spice.name} in small amounts, taste, and balance it with salt, fat, or acidity.`}</p><Substitutes items={spice.substitutes || []} /></Card>
+    <Card title="🍳 How to Use"><p className="text-sm leading-relaxed text-base-content/75">{spice.howToUse || `Use ${spice.name} in small amounts, taste, and balance it with salt, fat, or acidity.`}</p>{spice.howMuchToUse && <div className="alert bg-emerald-50 text-emerald-900 border-emerald-200 mt-3 text-sm"><span><strong>How much:</strong> {spice.howMuchToUse}</span></div>}<Substitutes items={spice.substitutes || []} /></Card>
   </div>;
 }
 
