@@ -21,6 +21,8 @@ const bannedDescriptionFragments = [
   "rather than a generic Wikipedia navigation entry",
   "Start with a small amount, taste as the aroma opens up",
   "SpiceAtlas treats",
+  "distinct seasoning note",
+  "If a recipe needs a substitute",
 ];
 const countBy = (values: string[][]) =>
   values.reduce<Record<string, number>>((counts, value) => {

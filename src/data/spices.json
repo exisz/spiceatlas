@@ -22,7 +22,7 @@
       "pine nuts"
     ],
     "heatLevel": 0,
-    "description": "African basil is a herb used for its sweet, peppery, anise-like character. Cooks most often match the leaf with tomato, mozzarella, garlic, olive oil, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider basil, oregano, thyme and adjust the quantity to match the dish.",
+    "description": "African basil is a herb valued for sweet, peppery, anise-like notes. Cooks use the leaf with tomato, mozzarella, garlic, olive oil, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include basil, oregano, thyme, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -106,7 +106,12 @@
       "cardamom"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Allspice"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Allspice",
+    "sourceSummary": "Allspice, also known as Jamaica pepper, myrtle pepper, pimenta, or pimento, is the dried unripe berry of Pimenta dioica, a midcanopy tree native to the Greater Antilles, southern Mexico, and Central America, now cultivated in many warm parts of the world. The name allspice was coined as early as 1621 by the English, who valued it as a spice that combined the flavours of cinnamon, nutmeg, and clove. Contrary to common misconception, it is not a mixture of spices.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pimenta_dioica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-239.jpg",
+    "imageAlt": "Allspice reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Allspice.",
+    "howMuchToUse": "Use 1/4-1/2 teaspoon ground allspice in jerk seasoning, stews, cakes, or pickles; whole berries suit long simmering."
   },
   {
     "name": "Anise",
@@ -142,7 +147,12 @@
       "licorice root"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Anise"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anise",
+    "sourceSummary": "Anise, also called aniseed or rarely anix, is a flowering plant in the family Apiaceae native to the eastern Mediterranean region and Southwest Asia.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Koehler1887-PimpinellaAnisum.jpg",
+    "imageAlt": "Anise reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Anise.",
+    "howMuchToUse": "Use 1/2 teaspoon seeds in breads, cookies, liqueurs, and seafood broths; crush lightly to release aroma."
   },
   {
     "name": "Aniseed",
@@ -167,7 +177,7 @@
       "baking"
     ],
     "heatLevel": 0,
-    "description": "Aniseed is a spice used for its sweet, licorice character. Cooks most often match the seed with fennel, cinnamon, star anise, fish, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider star anise, fennel seeds, anise extract and adjust the quantity to match the dish.",
+    "description": "Aniseed is a spice valued for sweet, licorice notes. Cooks use the seed with fennel, cinnamon, star anise, fish, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include star anise, fennel seeds, anise extract, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with fennel, cinnamon, star anise. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -201,7 +211,7 @@
       "baking"
     ],
     "heatLevel": 0,
-    "description": "Aniseed myrtle is a spice used for its sweet, licorice character. Cooks most often match the seed with fennel, cinnamon, star anise, fish, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider anise, fennel, star anise and adjust the quantity to match the dish.",
+    "description": "Aniseed myrtle is a spice valued for sweet, licorice notes. Cooks use the seed with fennel, cinnamon, star anise, fish, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include anise, fennel, star anise, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Commonly used in Australia cooking contexts.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with fennel, cinnamon, star anise. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -235,7 +245,7 @@
       "corn"
     ],
     "heatLevel": 0,
-    "description": "Annatto is a spice used for its earthy, slightly peppery, musky character. Cooks most often match the seed with rice, chicken, pork, cheese, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider turmeric (color), paprika (color), saffron (color) and adjust the quantity to match the dish.",
+    "description": "Annatto is a spice valued for earthy, slightly peppery, musky notes. Cooks use the seed with rice, chicken, pork, cheese, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include turmeric (color), paprika (color), saffron (color), adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with rice, chicken, pork. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -269,7 +279,7 @@
       "turmeric"
     ],
     "heatLevel": 3,
-    "description": "Aromatic ginger is a spice used for its spicy, warm, citrusy character. Cooks most often match the root or rhizome with garlic, soy sauce, lemon, honey, where it adds a distinct seasoning note instead of a generic background flavor. It brings noticeable heat, so add it gradually and balance with salt, fat, or acidity. If a recipe needs a substitute, consider ginger, galangal, cardamom and adjust the quantity to match the dish.",
+    "description": "Aromatic ginger is a spice valued for spicy, warm, citrusy notes. Cooks use the root or rhizome with garlic, soy sauce, lemon, honey, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include ginger, galangal, cardamom, adjusted to taste.",
     "usedPart": "root or rhizome",
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, soy sauce, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -303,7 +313,7 @@
       "curry leaf"
     ],
     "heatLevel": 0,
-    "description": "Asafoetida is a spice used for its pungent, onion-like, umami character. Cooks most often match the root or rhizome with lentils, cumin, turmeric, mustard seed, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider garlic powder, onion powder, leek powder and adjust the quantity to match the dish.",
+    "description": "Asafoetida is a spice valued for pungent, onion-like, umami notes. Cooks use the root or rhizome with lentils, cumin, turmeric, mustard seed, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include garlic powder, onion powder, leek powder, adjusted to taste.",
     "usedPart": "root or rhizome",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with lentils, cumin, turmeric. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -313,7 +323,9 @@
       "leek powder"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Asafoetida"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Asafoetida",
+    "sourceSummary": "Asafoetida is the dried latex exuded from the rhizome or tap root of several species of Ferula, perennial herbs of the carrot family. It is produced in Iran, Afghanistan, India, Central Asia and north-western China (Xinjiang). Different regions have different botanical sources.",
+    "howMuchToUse": "Use a tiny pinch bloomed in hot fat; it is powerful and becomes onion-garlic-like when cooked."
   },
   {
     "name": "Ashanti pepper",
@@ -573,7 +585,12 @@
       "allspice"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Black_cardamom"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Black_cardamom",
+    "sourceSummary": "Amomum subulatum, also known as black cardamom, hill cardamom, Bengal cardamom, greater cardamom, Indian cardamom, Nepal cardamom, winged cardamom, big cardamon, or brown cardamom, is a perennial herbaceous plant in the family Zingiberaceae. Its seed pods have a strong, camphor-like flavour, with a smoky character derived from the method of drying.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/BlackCardamom.jpg",
+    "imageAlt": "Black cardamom reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Black cardamom.",
+    "howMuchToUse": "Use 1-2 pods in biryani, dal, braises, and spice blends; remove the woody pod before serving."
   },
   {
     "name": "Black cumin",
@@ -598,7 +615,7 @@
       "lemon"
     ],
     "heatLevel": 2,
-    "description": "Black cumin is a spice used for its earthy, warm, nutty character. Cooks most often match the seed with coriander, chili, turmeric, garlic, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider cumin, caraway, nigella seeds and adjust the quantity to match the dish.",
+    "description": "Black cumin is a spice valued for earthy, warm, nutty notes. Cooks use the seed with coriander, chili, turmeric, garlic, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cumin, caraway, nigella seeds, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Commonly used in South Asia cooking contexts.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with coriander, chili, turmeric. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -713,7 +730,7 @@
       "tomato"
     ],
     "heatLevel": 1,
-    "description": "Blue fenugreek is a spice used for its maple-like, bitter, nutty character. Cooks most often match the culinary plant part or prepared seasoning with cumin, coriander, turmeric, garlic, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider fenugreek, celery leaves, lovage and adjust the quantity to match the dish.",
+    "description": "Blue fenugreek is a spice valued for maple-like, bitter, nutty notes. Cooks use the culinary plant part or prepared seasoning with cumin, coriander, turmeric, garlic, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include fenugreek, celery leaves, lovage, adjusted to taste.",
     "usedPart": "culinary plant part or prepared seasoning",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the culinary plant part or prepared seasoning in small measured amounts, then adjust after tasting. It works especially well with cumin, coriander, turmeric. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -781,7 +798,7 @@
       "eggnog"
     ],
     "heatLevel": 1,
-    "description": "Calabash nutmeg is a spice used for its warm, sweet, nutty character. Cooks most often match the culinary plant part or prepared seasoning with cinnamon, cream, cheese, spinach, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider nutmeg, mace, allspice and adjust the quantity to match the dish.",
+    "description": "Calabash nutmeg is a spice valued for warm, sweet, nutty notes. Cooks use the culinary plant part or prepared seasoning with cinnamon, cream, cheese, spinach, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include nutmeg, mace, allspice, adjusted to taste.",
     "usedPart": "culinary plant part or prepared seasoning",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the culinary plant part or prepared seasoning in small measured amounts, then adjust after tasting. It works especially well with cinnamon, cream, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -814,7 +831,7 @@
       "cheese"
     ],
     "heatLevel": 0,
-    "description": "Caraway is a spice used for its earthy, slightly sweet, anise-like character. Cooks most often match the seed with cabbage, rye bread, pork, potato, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider cumin, fennel seeds, dill seeds and adjust the quantity to match the dish.",
+    "description": "Caraway is a spice valued for earthy, slightly sweet, anise-like notes. Cooks use the seed with cabbage, rye bread, pork, potato, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cumin, fennel seeds, dill seeds, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cabbage, rye bread, pork. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -825,7 +842,12 @@
       "anise"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Caraway"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Caraway",
+    "sourceSummary": "Caraway, also known as meridian fennel, is a biennial plant in the family Apiaceae, native to western Asia, Europe, and North Africa.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Carum_carvi_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-172.jpg",
+    "imageAlt": "Caraway reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Caraway.",
+    "howMuchToUse": "Use 1/2-1 teaspoon seeds in rye bread, cabbage, potatoes, pork, or cheese dishes; toast briefly for depth."
   },
   {
     "name": "Cardamom",
@@ -941,7 +963,12 @@
       "Aleppo pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Cayenne_pepper"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cayenne_pepper",
+    "sourceSummary": "The cayenne pepper is a type of Capsicum annuum. It is usually a hot chili pepper used to flavor dishes. Cayenne peppers are a group of tapering, 10 to 25 cm long, generally skinny, mostly red-colored peppers, often with a curved tip and somewhat rippled skin, which hang from the bush as opposed to growing upright. Most varieties are generally rated at 30,000 to 50,000 Scoville units.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Capsicum_annuum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-027.jpg",
+    "imageAlt": "Cayenne pepper reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Cayenne pepper.",
+    "howMuchToUse": "Start with 1/8 teaspoon ground cayenne per dish and increase carefully; it spreads heat quickly."
   },
   {
     "name": "Celery seed",
@@ -961,7 +988,7 @@
       "ginger"
     ],
     "heatLevel": 1,
-    "description": "Celery seed is a spice used for its warm, aromatic character. Cooks most often match the seed with garlic, onion, ginger, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider celery salt, dill seeds, caraway and adjust the quantity to match the dish.",
+    "description": "Celery seed is a spice valued for warm, aromatic notes. Cooks use the seed with garlic, onion, ginger, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include celery salt, dill seeds, caraway, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -972,7 +999,12 @@
       "fennel seeds"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Celery_seed"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Celery_seed",
+    "sourceSummary": "Celery is a cultivated plant belonging to the species Apium graveolens in the family Apiaceae that has been used as a vegetable since ancient times.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Celery_1.jpg",
+    "imageAlt": "Celery seed reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Celery.",
+    "howMuchToUse": "Use 1/4-1/2 teaspoon in slaws, pickles, tomato juice, and dressings; crush lightly for stronger flavor."
   },
   {
     "name": "Chili",
@@ -995,7 +1027,7 @@
       "chocolate"
     ],
     "heatLevel": 5,
-    "description": "Chili is a spice used for its hot, fruity, smoky character. Cooks most often match the fruit or pod with garlic, cumin, oregano, tomato, where it adds a distinct seasoning note instead of a generic background flavor. It brings noticeable heat, so add it gradually and balance with salt, fat, or acidity. If a recipe needs a substitute, consider cayenne, chili powder, paprika and adjust the quantity to match the dish.",
+    "description": "Chili is a spice valued for hot, fruity, smoky notes. Cooks use the fruit or pod with garlic, cumin, oregano, tomato, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cayenne, chili powder, paprika, adjusted to taste.",
     "usedPart": "fruit or pod",
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with garlic, cumin, oregano. Because it carries noticeable heat, add it gradually and balance it with fat, starch, sweetness, or acidity.",
@@ -1039,7 +1071,12 @@
       "chili powder"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Chili_pepper"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chili_pepper",
+    "sourceSummary": "Chili peppers, also spelled chile or chilli, are varieties of berry-fruit plants from the genus Capsicum, which are members of the nightshade family Solanaceae, cultivated for their pungency. They are used as a spice to add pungency in many cuisines. Capsaicin and the related capsaicinoids give chili peppers their intensity when ingested or applied topically. Chili peppers exhibit a range of heat and flavors. This diversity is the reason behind the availability of different types of chili powder, each offering its own taste and heat level.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Madame_Jeanette_and_other_chillies.jpg",
+    "imageAlt": "Chili pepper reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Chili pepper.",
+    "howMuchToUse": "Use one fresh chile, a pinch of flakes, or 1/4 teaspoon powder depending on heat; taste before adding more."
   },
   {
     "name": "Chili powder",
@@ -1103,7 +1140,7 @@
       "pistachio"
     ],
     "heatLevel": 1,
-    "description": "Chinese black cardamom is a spice used for its sweet, floral, citrusy character. Cooks most often match the seed with cinnamon, ginger, coffee, rose, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider black cardamom, cardamom, allspice and adjust the quantity to match the dish.",
+    "description": "Chinese black cardamom is a spice valued for sweet, floral, citrusy notes. Cooks use the seed with cinnamon, ginger, coffee, rose, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include black cardamom, cardamom, allspice, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Commonly used in China cooking contexts.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cinnamon, ginger, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -1140,7 +1177,7 @@
       "pistachio"
     ],
     "heatLevel": 1,
-    "description": "Chinese white cardamom is a spice used for its sweet, floral, citrusy character. Cooks most often match the seed with cinnamon, ginger, coffee, rose, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider cardamom, white pepper, coriander and adjust the quantity to match the dish.",
+    "description": "Chinese white cardamom is a spice valued for sweet, floral, citrusy notes. Cooks use the seed with cinnamon, ginger, coffee, rose, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cardamom, white pepper, coriander, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Commonly used in China cooking contexts.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cinnamon, ginger, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -1173,7 +1210,7 @@
       "salmon"
     ],
     "heatLevel": 0,
-    "description": "Chives is a herb used for its mild onion, fresh, delicate character. Cooks most often match the leaf with potato, cream cheese, egg, sour cream, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider green onion, leek, garlic chives and adjust the quantity to match the dish.",
+    "description": "Chives is a herb valued for mild onion, fresh, delicate notes. Cooks use the leaf with potato, cream cheese, egg, sour cream, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include green onion, leek, garlic chives, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with potato, cream cheese, egg. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -1184,7 +1221,12 @@
       "shallots"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Chives"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chives",
+    "sourceSummary": "Chives, scientific name Allium schoenoprasum, is a species of flowering plant in the family Amaryllidaceae.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Allium_schoenoprasum_-_Bombus_lapidarius_-_Tootsi.jpg",
+    "imageAlt": "Chives reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Chives.",
+    "howMuchToUse": "Use 1-2 tablespoons snipped chives as a finishing herb for potatoes, eggs, soups, dips, and fish."
   },
   {
     "name": "Cinnamon",
@@ -1253,7 +1295,7 @@
       "cardamom"
     ],
     "heatLevel": 1,
-    "description": "Cinnamon myrtle is a spice used for its sweet, warm, woody character. Cooks most often match the bark with apple, chocolate, coffee, honey, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider cinnamon, nutmeg, allspice and adjust the quantity to match the dish.",
+    "description": "Cinnamon myrtle is a spice valued for sweet, warm, woody notes. Cooks use the bark with apple, chocolate, coffee, honey, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cinnamon, nutmeg, allspice, adjusted to taste.",
     "usedPart": "bark",
     "culinaryContext": "Commonly used in Australia cooking contexts.",
     "howToUse": "Use the bark in small measured amounts, then adjust after tasting. It works especially well with apple, chocolate, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -1528,7 +1570,7 @@
       "coconut"
     ],
     "heatLevel": 0,
-    "description": "Coriander seed is a spice used for its citrusy, nutty, floral character. Cooks most often match the seed with cumin, chili, lime, ginger, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider saffron, rose, lavender and adjust the quantity to match the dish.",
+    "description": "Coriander seed is a spice valued for citrusy, nutty, floral notes. Cooks use the seed with cumin, chili, lime, ginger, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include saffron, rose, lavender, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with cumin, chili, lime. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -1562,7 +1604,7 @@
       "chicken"
     ],
     "heatLevel": 0,
-    "description": "Creeping thyme is a herb used for its earthy, minty, slightly sweet character. Cooks most often match the leaf with rosemary, garlic, lemon, mushroom, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider thyme, oregano, marjoram and adjust the quantity to match the dish.",
+    "description": "Creeping thyme is a herb valued for earthy, minty, slightly sweet notes. Cooks use the leaf with rosemary, garlic, lemon, mushroom, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include thyme, oregano, marjoram, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -1629,7 +1671,7 @@
       "lemon"
     ],
     "heatLevel": 0,
-    "description": "Cuban oregano is a herb used for its earthy, slightly bitter, warm character. Cooks most often match the leaf with tomato, basil, garlic, olive oil, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider oregano, thyme, marjoram and adjust the quantity to match the dish.",
+    "description": "Cuban oregano is a herb valued for earthy, slightly bitter, warm notes. Cooks use the leaf with tomato, basil, garlic, olive oil, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include oregano, thyme, marjoram, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, basil, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -1752,7 +1794,7 @@
       "potato"
     ],
     "heatLevel": 0,
-    "description": "Dill / Dill seed is a spice used for its fresh, grassy, slightly sweet character. Cooks most often match the leaf with salmon, cucumber, yogurt, lemon, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider fennel fronds, tarragon, anise seed and adjust the quantity to match the dish.",
+    "description": "Dill / Dill seed is a spice valued for fresh, grassy, slightly sweet notes. Cooks use the leaf with salmon, cucumber, yogurt, lemon, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include fennel fronds, tarragon, anise seed, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with salmon, cucumber, yogurt. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -1785,7 +1827,7 @@
       "potato"
     ],
     "heatLevel": 0,
-    "description": "Dill seed is a spice used for its fresh, grassy, slightly sweet character. Cooks most often match the leaf with salmon, cucumber, yogurt, lemon, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider fennel fronds, tarragon, anise seed and adjust the quantity to match the dish.",
+    "description": "Dill seed is a spice valued for fresh, grassy, slightly sweet notes. Cooks use the leaf with salmon, cucumber, yogurt, lemon, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include fennel fronds, tarragon, anise seed, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with salmon, cucumber, yogurt. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -1900,7 +1942,7 @@
       "bush honey"
     ],
     "heatLevel": 1,
-    "description": "Elegant wattleseed is a spice used for its warm, aromatic character. Cooks most often match the seed with chocolate, cream, vanilla, macadamia, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider coffee, cocoa nibs, roasted chicory and adjust the quantity to match the dish.",
+    "description": "Elegant wattleseed is a spice valued for warm, aromatic notes. Cooks use the seed with chocolate, cream, vanilla, macadamia, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include coffee, cocoa nibs, roasted chicory, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -1948,7 +1990,12 @@
       "sausage"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Fennel"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fennel",
+    "sourceSummary": "Fennel is a flowering plant species in the carrot family. It is a hardy, perennial herb with yellow flowers and feathery leaves. It is indigenous to the shores of the Mediterranean but has become widely naturalized in many parts of the world, especially on dry soils near the sea coast and on riverbanks.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Foeniculum_July_2011-1a.jpg",
+    "imageAlt": "Fennel reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Fennel.",
+    "howMuchToUse": "Use 1/2-1 teaspoon seeds in sausages, breads, tomato sauces, and roasts, or a pinch ground in spice blends."
   },
   {
     "name": "Fenugreek",
@@ -1986,7 +2033,12 @@
       "fennel seeds"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Fenugreek"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fenugreek",
+    "sourceSummary": "Fenugreek is an annual plant in the family Fabaceae, with leaves consisting of three small obovate to oblong leaflets. It is cultivated worldwide as a semiarid crop. Its leaves and seeds are common ingredients in dishes from the Indian subcontinent, and have been used as a culinary ingredient since ancient times. Its use as a food ingredient in small quantities is safe.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Illustration_Trigonella_foenum-graecum0_clean.jpg",
+    "imageAlt": "Fenugreek reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Fenugreek.",
+    "howMuchToUse": "Use 1/4-1/2 teaspoon seeds or powder; its maple-bitter note is strong and benefits from toasting or blooming."
   },
   {
     "name": "Fish mint",
@@ -2009,7 +2061,7 @@
       "yogurt"
     ],
     "heatLevel": 0,
-    "description": "Fish mint is a herb used for its cool, fresh, sweet character. Cooks most often match the leaf with lamb, chocolate, pea, lemon, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider cilantro, Vietnamese coriander, mint and adjust the quantity to match the dish.",
+    "description": "Fish mint is a herb valued for cool, fresh, sweet notes. Cooks use the leaf with lamb, chocolate, pea, lemon, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cilantro, Vietnamese coriander, mint, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with lamb, chocolate, pea. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2045,7 +2097,7 @@
       "potato"
     ],
     "heatLevel": 0,
-    "description": "French parsley is a herb used for its fresh, slightly bitter, clean character. Cooks most often match the leaf with garlic, lemon, butter, fish, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider parsley, chervil, cilantro and adjust the quantity to match the dish.",
+    "description": "French parsley is a herb valued for fresh, slightly bitter, clean notes. Cooks use the leaf with garlic, lemon, butter, fish, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include parsley, chervil, cilantro, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, butter. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2092,7 +2144,12 @@
       "lemongrass"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Galangal"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Galangal",
+    "sourceSummary": "Galangal is a rhizome of plants in the ginger family Zingiberaceae, with culinary and medicinal uses originating in Indonesia. It is one of four species in the genus Alpinia, and is known for its pungent, aromatic flavor.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Galangal.web.jpg",
+    "imageAlt": "Galangal reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Galangal.",
+    "howMuchToUse": "Use 3-5 thin slices in soups or 1 tablespoon minced in curry paste; remove tough slices before serving."
   },
   {
     "name": "Garlic",
@@ -2197,7 +2254,7 @@
       "chili"
     ],
     "heatLevel": 1,
-    "description": "Garlic powder is a spice used for its pungent, savory, slightly sweet character. Cooks most often match the bulb with onion, ginger, olive oil, lemon, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider onion powder, mustard seed, onion and adjust the quantity to match the dish.",
+    "description": "Garlic powder is a spice valued for pungent, savory, slightly sweet notes. Cooks use the bulb with onion, ginger, olive oil, lemon, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include onion powder, mustard seed, onion, adjusted to taste.",
     "usedPart": "bulb",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the bulb in small measured amounts, then adjust after tasting. It works especially well with onion, ginger, olive oil. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -2349,7 +2406,7 @@
       "pine nuts"
     ],
     "heatLevel": 0,
-    "description": "Holy basil is a herb used for its sweet, peppery, anise-like character. Cooks most often match the leaf with tomato, mozzarella, garlic, olive oil, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider basil, oregano, Thai basil and adjust the quantity to match the dish.",
+    "description": "Holy basil is a herb valued for sweet, peppery, anise-like notes. Cooks use the leaf with tomato, mozzarella, garlic, olive oil, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include basil, oregano, Thai basil, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2398,7 +2455,12 @@
       "garlic powder"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Horseradish"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Horseradish",
+    "sourceSummary": "Horseradish is a perennial plant of the family Brassicaceae. It is a root vegetable, cultivated and used worldwide as a spice and as a condiment. The species is likely native to Southeastern Europe and Western Asia.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Armoracia_rusticana.jpg",
+    "imageAlt": "Horseradish reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Horseradish.",
+    "howMuchToUse": "Use 1-2 teaspoons prepared horseradish in sauces or relish; add at the end to preserve its bite."
   },
   {
     "name": "Indian bay leaf",
@@ -2424,7 +2486,7 @@
       "tomato sauce"
     ],
     "heatLevel": 0,
-    "description": "Indian bay leaf is a herb used for its herbal, slightly bitter, floral character. Cooks most often match the leaf with soup, stew, rice, beans, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider bay leaf, cinnamon leaf, cassia leaf and adjust the quantity to match the dish.",
+    "description": "Indian bay leaf is a herb valued for herbal, slightly bitter, floral notes. Cooks use the leaf with soup, stew, rice, beans, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include bay leaf, cinnamon leaf, cassia leaf, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with soup, stew, rice. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2461,7 +2523,7 @@
       "tomato sauce"
     ],
     "heatLevel": 0,
-    "description": "Indonesian bay leaf is a herb used for its herbal, slightly bitter, floral character. Cooks most often match the leaf with soup, stew, rice, beans, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider bay leaf, pandan leaf, salam leaf and adjust the quantity to match the dish.",
+    "description": "Indonesian bay leaf is a herb valued for herbal, slightly bitter, floral notes. Cooks use the leaf with soup, stew, rice, beans, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include bay leaf, pandan leaf, salam leaf, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with soup, stew, rice. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2494,7 +2556,7 @@
       "cardamom"
     ],
     "heatLevel": 1,
-    "description": "Indonesian cinnamon is a spice used for its sweet, warm, woody character. Cooks most often match the bark with apple, chocolate, coffee, honey, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider cinnamon, nutmeg, allspice and adjust the quantity to match the dish.",
+    "description": "Indonesian cinnamon is a spice valued for sweet, warm, woody notes. Cooks use the bark with apple, chocolate, coffee, honey, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cinnamon, nutmeg, allspice, adjusted to taste.",
     "usedPart": "bark",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the bark in small measured amounts, then adjust after tasting. It works especially well with apple, chocolate, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -2530,7 +2592,7 @@
       "potato"
     ],
     "heatLevel": 0,
-    "description": "Italian parsley is a herb used for its fresh, slightly bitter, clean character. Cooks most often match the leaf with garlic, lemon, butter, fish, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider parsley, cilantro, chervil and adjust the quantity to match the dish.",
+    "description": "Italian parsley is a herb valued for fresh, slightly bitter, clean notes. Cooks use the leaf with garlic, lemon, butter, fish, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include parsley, cilantro, chervil, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, butter. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2564,7 +2626,7 @@
       "potato"
     ],
     "heatLevel": 0,
-    "description": "Japanese parsley is a herb used for its fresh, slightly bitter, clean character. Cooks most often match the leaf with garlic, lemon, butter, fish, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider parsley, cilantro, celery leaves and adjust the quantity to match the dish.",
+    "description": "Japanese parsley is a herb valued for fresh, slightly bitter, clean notes. Cooks use the leaf with garlic, lemon, butter, fish, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include parsley, cilantro, celery leaves, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, butter. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2612,7 +2674,12 @@
       "cabbage"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Juniper_berry"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Juniper_berry",
+    "sourceSummary": "A juniper berry is the female seed cone produced by the various species of junipers. It is not a true berry but a cone with unusually fleshy and merged scales called a galbulus, which gives it a berry-like appearance. The cones from a handful of species, especially Juniperus communis, are used as a spice, particularly in European cuisine, and also give gin its distinctive flavour. Juniper berries are among the few spices derived from conifers, along with spruce buds.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Juniperus_communis_fruits_-_Keila.jpg/3840px-Juniperus_communis_fruits_-_Keila.jpg",
+    "imageAlt": "Juniper berry reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Juniper berry.",
+    "howMuchToUse": "Crush 3-6 berries for marinades, game, sauerkraut, or gin-like sauces, then strain or remove before serving."
   },
   {
     "name": "Kani pepper",
@@ -2672,7 +2739,7 @@
       "garlic"
     ],
     "heatLevel": 1,
-    "description": "Korean perilla seeds is a spice used for its warm, aromatic character. Cooks most often match the leaf with rice, kimchi, sesame oil, soy sauce, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider sesame seed, shiso, nigella seed and adjust the quantity to match the dish.",
+    "description": "Korean perilla seeds is a spice valued for warm, aromatic notes. Cooks use the leaf with rice, kimchi, sesame oil, soy sauce, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include sesame seed, shiso, nigella seed, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -2705,7 +2772,7 @@
       "blueberry"
     ],
     "heatLevel": 0,
-    "description": "Lavender is a herb used for its floral, sweet, slightly bitter character. Cooks most often match the leaf with honey, lemon, vanilla, chocolate, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider herbes de Provence, rosemary, thyme and adjust the quantity to match the dish.",
+    "description": "Lavender is a herb valued for floral, sweet, slightly bitter notes. Cooks use the leaf with honey, lemon, vanilla, chocolate, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include herbes de Provence, rosemary, thyme, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with honey, lemon, vanilla. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2716,7 +2783,12 @@
       "chamomile"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Lavender"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lavender",
+    "sourceSummary": "Lavandula is a genus of 47 known species of perennial flowering plants in the sage family, Lamiaceae. It is native to the Old World, primarily found across the drier, warmer regions of the Mediterranean, with an affinity for maritime breezes.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Single_lavender_flower02.jpg",
+    "imageAlt": "Lavender reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Lavandula.",
+    "howMuchToUse": "Use only a pinch of culinary lavender in sweets, teas, rubs, or syrups; too much quickly tastes soapy."
   },
   {
     "name": "Lavender thyme",
@@ -2739,7 +2811,7 @@
       "chicken"
     ],
     "heatLevel": 0,
-    "description": "Lavender thyme is a herb used for its earthy, minty, slightly sweet character. Cooks most often match the leaf with rosemary, garlic, lemon, mushroom, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider thyme, lavender, oregano and adjust the quantity to match the dish.",
+    "description": "Lavender thyme is a herb valued for earthy, minty, slightly sweet notes. Cooks use the leaf with rosemary, garlic, lemon, mushroom, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include thyme, lavender, oregano, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2777,7 +2849,7 @@
       "lemon"
     ],
     "heatLevel": 0,
-    "description": "Lebanese oregano is a herb used for its earthy, slightly bitter, warm character. Cooks most often match the leaf with tomato, basil, garlic, olive oil, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider oregano, marjoram, thyme and adjust the quantity to match the dish.",
+    "description": "Lebanese oregano is a herb valued for earthy, slightly bitter, warm notes. Cooks use the leaf with tomato, basil, garlic, olive oil, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include oregano, marjoram, thyme, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, basil, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2811,7 +2883,7 @@
       "pine nuts"
     ],
     "heatLevel": 0,
-    "description": "Lemon Basil is a herb used for its sweet, peppery, anise-like character. Cooks most often match the leaf with tomato, mozzarella, garlic, olive oil, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider basil, lemon thyme, lemon verbena and adjust the quantity to match the dish.",
+    "description": "Lemon Basil is a herb valued for sweet, peppery, anise-like notes. Cooks use the leaf with tomato, mozzarella, garlic, olive oil, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include basil, lemon thyme, lemon verbena, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, mozzarella, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2881,7 +2953,7 @@
       "chicken"
     ],
     "heatLevel": 0,
-    "description": "Lemon thyme is a herb used for its earthy, minty, slightly sweet character. Cooks most often match the leaf with rosemary, garlic, lemon, mushroom, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider thyme, lemon zest, lemon basil and adjust the quantity to match the dish.",
+    "description": "Lemon thyme is a herb valued for earthy, minty, slightly sweet notes. Cooks use the leaf with rosemary, garlic, lemon, mushroom, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include thyme, lemon zest, lemon basil, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2930,7 +3002,12 @@
       "citronella"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Lemongrass"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lemongrass",
+    "sourceSummary": "Cymbopogon, also known as lemongrass, barbed wire grass, silky heads, oily heads, Cochin grass, Malabar grass, citronella grass or fever grass, is a genus of Asian, African, Australian, and tropical island plants in the grass family. Some species are commonly cultivated as culinary and medicinal herbs because of their scent, resembling that of lemons . The name Cymbopogon derives from the Greek words kymbe and pogon \"which mean [that] in most species, the hairy spikelets project from boat-shaped spathes.\" Lemongrass and its oil are believed to possess therapeutic properties.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/YosriNov04Pokok_Serai.JPG",
+    "imageAlt": "Lemongrass reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Cymbopogon.",
+    "howMuchToUse": "Use 1 bruised stalk for soups and curries, or 1-2 tablespoons finely minced tender inner stalk in pastes."
   },
   {
     "name": "Lesser calamint",
@@ -2958,7 +3035,7 @@
       "yogurt"
     ],
     "heatLevel": 0,
-    "description": "Lesser calamint is a herb used for its cool, fresh, sweet character. Cooks most often match the leaf with lamb, chocolate, pea, lemon, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider catnip, oregano, thyme and adjust the quantity to match the dish.",
+    "description": "Lesser calamint is a herb valued for cool, fresh, sweet notes. Cooks use the leaf with lamb, chocolate, pea, lemon, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include catnip, oregano, thyme, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Commonly used in Italy cooking contexts.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with lamb, chocolate, pea. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -2993,7 +3070,7 @@
       "turmeric"
     ],
     "heatLevel": 1,
-    "description": "Lesser galangal is a spice used for its warm, aromatic character. Cooks most often match the root or rhizome with coconut milk, lime, chili, fish sauce, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider ginger, fingerroot, lemongrass and adjust the quantity to match the dish.",
+    "description": "Lesser galangal is a spice valued for warm, aromatic notes. Cooks use the root or rhizome with coconut milk, lime, chili, fish sauce, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include ginger, fingerroot, lemongrass, adjusted to taste.",
     "usedPart": "root or rhizome",
     "culinaryContext": "Commonly used in Indonesia cooking contexts.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -3036,7 +3113,12 @@
       "cubeb pepper"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Long_pepper"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Long_pepper",
+    "sourceSummary": "Long pepper, sometimes called Indian long pepper or pippali, is a flowering vine in the family Piperaceae, cultivated for its fruit, which is usually dried and used as a spice and seasoning. Long pepper has a taste similar to, but is sweeter and more pungent than, its close relative Piper nigrum – from which black, green and white pepper are obtained.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Piper_longum_print.jpg",
+    "imageAlt": "Long pepper reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Long pepper.",
+    "howMuchToUse": "Grate or crush a small piece like black pepper; its warm sweetness suits meats, pickles, and spice blends."
   },
   {
     "name": "Mace",
@@ -3071,7 +3153,12 @@
       "cardamom"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Mace"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mace",
+    "sourceSummary": "Nutmeg is the seed, or the ground spice derived from the seed, of several tree species of the genus Myristica; fragrant nutmeg or true nutmeg is a dark-leaved evergreen tree cultivated for two spices derived from its fruit: nutmeg, from its seed, and mace, from the seed covering. It is also a commercial source of nutmeg essential oil and nutmeg butter. The Banda Islands, in Maluku, Indonesia, are the main producer of nutmeg and mace, and the true nutmeg tree is native to the islands.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biji_Pala_Bubuk.jpg",
+    "imageAlt": "Mace reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Nutmeg.",
+    "howMuchToUse": "Use 1/8-1/4 teaspoon ground mace in sauces, cakes, sausages, and dairy dishes; it is potent and warm."
   },
   {
     "name": "Mango-ginger",
@@ -3094,7 +3181,7 @@
       "lemongrass"
     ],
     "heatLevel": 3,
-    "description": "Mango-ginger is a spice used for its spicy, warm, citrusy character. Cooks most often match the root or rhizome with coconut milk, lime, fish, chili, where it adds a distinct seasoning note instead of a generic background flavor. It brings noticeable heat, so add it gradually and balance with salt, fat, or acidity. If a recipe needs a substitute, consider ginger, galangal, turmeric and adjust the quantity to match the dish.",
+    "description": "Mango-ginger is a spice valued for spicy, warm, citrusy notes. Cooks use the root or rhizome with coconut milk, lime, fish, chili, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include ginger, galangal, turmeric, adjusted to taste.",
     "usedPart": "root or rhizome",
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, soy sauce, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -3164,7 +3251,7 @@
       "tomato sauce"
     ],
     "heatLevel": 0,
-    "description": "Mexican bay leaf is a herb used for its herbal, slightly bitter, floral character. Cooks most often match the leaf with soup, stew, rice, beans, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider bay leaf, avocado leaf, lemon verbena and adjust the quantity to match the dish.",
+    "description": "Mexican bay leaf is a herb valued for herbal, slightly bitter, floral notes. Cooks use the leaf with soup, stew, rice, beans, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include bay leaf, avocado leaf, lemon verbena, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with soup, stew, rice. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -3197,7 +3284,7 @@
       "lemon"
     ],
     "heatLevel": 0,
-    "description": "Mexican oregano is a herb used for its earthy, slightly bitter, warm character. Cooks most often match the leaf with tomato, basil, garlic, olive oil, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider oregano, marjoram, thyme and adjust the quantity to match the dish.",
+    "description": "Mexican oregano is a herb valued for earthy, slightly bitter, warm notes. Cooks use the leaf with tomato, basil, garlic, olive oil, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include oregano, marjoram, thyme, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with tomato, basil, garlic. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -3248,7 +3335,10 @@
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mint",
     "howMuchToUse": "Use a handful of leaves in salads, chutneys, tea, lamb, peas, or desserts. Add raw or at the end for brightness.",
-    "sourceSummary": "Mint or The Mint may refer to:"
+    "sourceSummary": "Mentha, also known as mint, is a genus of flowering plants in the mint family, Lamiaceae. It is estimated that 18 to 24 species exist, but the exact distinction between species is unclear. Hybridization occurs naturally where some species' ranges overlap. Many hybrids and cultivars are known.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Mentha_spicata-IMG_6186.jpg",
+    "imageAlt": "Mint reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Mentha."
   },
   {
     "name": "Mountain pepper",
@@ -3323,7 +3413,10 @@
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Mustard",
     "howMuchToUse": "Use 1/2 to 1 teaspoon ground mustard in rubs, sauces, pickles, and dressings, or bloom seeds in hot oil until they pop.",
-    "sourceSummary": "Mustard may refer to:"
+    "sourceSummary": "Mustard seeds are the small round seeds of various mustard plants. The seeds are usually about 1 to 2 millimetres in diameter and may be colored from yellowish white to black. They are an important spice in many regional foods and may come from one of three different plants: black mustard, brown mustard (B. juncea), or white mustard.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mustard.png",
+    "imageAlt": "Mustard reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Mustard seed."
   },
   {
     "name": "Mustard, black",
@@ -3346,7 +3439,7 @@
       "pickles"
     ],
     "heatLevel": 3,
-    "description": "Mustard, black is a spice used for its sharp, pungent, tangy character. Cooks most often match the seed with vinegar, honey, sausages, cheese, where it adds a distinct seasoning note instead of a generic background flavor. It brings noticeable heat, so add it gradually and balance with salt, fat, or acidity. If a recipe needs a substitute, consider mustard powder, prepared mustard, horseradish and adjust the quantity to match the dish.",
+    "description": "Mustard, black is a spice valued for sharp, pungent, tangy notes. Cooks use the seed with vinegar, honey, sausages, cheese, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include mustard powder, prepared mustard, horseradish, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with ham, sausage, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -3380,7 +3473,7 @@
       "pickles"
     ],
     "heatLevel": 3,
-    "description": "Mustard, brown is a spice used for its sharp, pungent, tangy character. Cooks most often match the seed with vinegar, honey, sausages, cheese, where it adds a distinct seasoning note instead of a generic background flavor. It brings noticeable heat, so add it gradually and balance with salt, fat, or acidity. If a recipe needs a substitute, consider mustard powder, prepared mustard, horseradish and adjust the quantity to match the dish.",
+    "description": "Mustard, brown is a spice valued for sharp, pungent, tangy notes. Cooks use the seed with vinegar, honey, sausages, cheese, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include mustard powder, prepared mustard, horseradish, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with ham, sausage, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -3414,7 +3507,7 @@
       "pickles"
     ],
     "heatLevel": 3,
-    "description": "Mustard, white is a spice used for its sharp, pungent, tangy character. Cooks most often match the seed with vinegar, honey, sausages, cheese, where it adds a distinct seasoning note instead of a generic background flavor. It brings noticeable heat, so add it gradually and balance with salt, fat, or acidity. If a recipe needs a substitute, consider mustard powder, prepared mustard, horseradish and adjust the quantity to match the dish.",
+    "description": "Mustard, white is a spice valued for sharp, pungent, tangy notes. Cooks use the seed with vinegar, honey, sausages, cheese, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include mustard powder, prepared mustard, horseradish, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with ham, sausage, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -3450,7 +3543,7 @@
       "pickles"
     ],
     "heatLevel": 3,
-    "description": "Mustard, yellow is a spice used for its sharp, pungent, tangy character. Cooks most often match the seed with vinegar, honey, sausages, cheese, where it adds a distinct seasoning note instead of a generic background flavor. It brings noticeable heat, so add it gradually and balance with salt, fat, or acidity. If a recipe needs a substitute, consider mustard powder, prepared mustard, horseradish and adjust the quantity to match the dish.",
+    "description": "Mustard, yellow is a spice valued for sharp, pungent, tangy notes. Cooks use the seed with vinegar, honey, sausages, cheese, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include mustard powder, prepared mustard, horseradish, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Common in chile-forward regional cooking and spice blends.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with ham, sausage, cheese. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -3499,7 +3592,12 @@
       "cardamom"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Nutmeg"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nutmeg",
+    "sourceSummary": "Nutmeg is the seed, or the ground spice derived from the seed, of several tree species of the genus Myristica; fragrant nutmeg or true nutmeg is a dark-leaved evergreen tree cultivated for two spices derived from its fruit: nutmeg, from its seed, and mace, from the seed covering. It is also a commercial source of nutmeg essential oil and nutmeg butter. The Banda Islands, in Maluku, Indonesia, are the main producer of nutmeg and mace, and the true nutmeg tree is native to the islands.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Biji_Pala_Bubuk.jpg",
+    "imageAlt": "Nutmeg reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Nutmeg.",
+    "howMuchToUse": "Use a fresh grating or 1/8 teaspoon ground nutmeg in dairy sauces, greens, baking, and warm drinks."
   },
   {
     "name": "Oregano",
@@ -3786,7 +3884,7 @@
       "walnuts"
     ],
     "heatLevel": 1,
-    "description": "Pomegranate seed is a spice used for its warm, aromatic character. Cooks most often match the seed with lamb, yogurt, mint, rice, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider sumac, dried cranberry, tamarind and adjust the quantity to match the dish.",
+    "description": "Pomegranate seed is a spice valued for warm, aromatic notes. Cooks use the seed with lamb, yogurt, mint, rice, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include sumac, dried cranberry, tamarind, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -3819,7 +3917,7 @@
       "noodles"
     ],
     "heatLevel": 0,
-    "description": "Poppy seed is a spice used for its nutty, slightly sweet, crunchy character. Cooks most often match the seed with lemon, cream cheese, honey, bread, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider cream cheese, honey and adjust the quantity to match the dish.",
+    "description": "Poppy seed is a spice valued for nutty, slightly sweet, crunchy notes. Cooks use the seed with lemon, cream cheese, honey, bread, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cream cheese, honey, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with lemon, cream cheese, honey. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -3828,7 +3926,12 @@
       "honey"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Poppy_seed"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Poppy_seed",
+    "sourceSummary": "Poppy seeds are a type of oilseed obtained from the poppy plant. The tiny, kidney-shaped seeds have been harvested from dried seed pods by various civilizations for thousands of years. Poppy seeds are widely used in many countries, especially in Central Europe and South Asia, where they are legally grown, used in food products, and sold in shops. The seeds are used either whole, or ground into meal as an ingredient in many foods – especially in pastry and bread. It is also possible to press poppyseeds into edible poppyseed oil.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Poppy_seeds.jpg",
+    "imageAlt": "Poppy seed reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Poppy seed.",
+    "howMuchToUse": "Use 1-2 teaspoons in breads, cakes, noodles, dressings, and pastries; toast lightly for nuttiness."
   },
   {
     "name": "Rocoto pepper",
@@ -3982,7 +4085,12 @@
       "marjoram"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Sage"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sage",
+    "sourceSummary": "Salvia officinalis, common sage or sage, is a perennial, evergreen subshrub, with woody stems, grayish leaves, and blue to purplish flowers. It is a member of the mint family (Lamiaceae) and native to the Mediterranean region, though it has been naturalized in many places throughout the world. It has a long history of culinary use, and in modern times it has been used as an ornamental garden plant. The common name \"sage\" is also used for closely related species and cultivars.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Salvia_officinalis0.jpg",
+    "imageAlt": "Sage reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Salvia officinalis.",
+    "howMuchToUse": "Use 4-6 fresh leaves or 1/2 teaspoon dried sage for poultry, pork, beans, squash, or brown butter sauces."
   },
   {
     "name": "Sand ginger",
@@ -4011,7 +4119,7 @@
       "lemongrass"
     ],
     "heatLevel": 3,
-    "description": "Sand ginger is a spice used for its spicy, warm, citrusy character. Cooks most often match the root or rhizome with coconut milk, lime, fish, chili, where it adds a distinct seasoning note instead of a generic background flavor. It brings noticeable heat, so add it gradually and balance with salt, fat, or acidity. If a recipe needs a substitute, consider ginger, galangal, turmeric and adjust the quantity to match the dish.",
+    "description": "Sand ginger is a spice valued for spicy, warm, citrusy notes. Cooks use the root or rhizome with coconut milk, lime, fish, chili, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include ginger, galangal, turmeric, adjusted to taste.",
     "usedPart": "root or rhizome",
     "culinaryContext": "Commonly used in Java cooking contexts.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, soy sauce, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -4046,7 +4154,7 @@
       "bush honey"
     ],
     "heatLevel": 1,
-    "description": "Sandplain wattleseed is a spice used for its warm, aromatic character. Cooks most often match the seed with chocolate, cream, vanilla, macadamia, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider coffee, cocoa nibs, roasted chicory and adjust the quantity to match the dish.",
+    "description": "Sandplain wattleseed is a spice valued for warm, aromatic notes. Cooks use the seed with chocolate, cream, vanilla, macadamia, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include coffee, cocoa nibs, roasted chicory, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -4130,7 +4238,12 @@
       "black pepper with coriander"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Sichuan_pepper"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sichuan_pepper",
+    "sourceSummary": "Sichuan pepper is a spice made from the dried pericarp of a plant of the genus Zanthoxylum in the family Rutaceae. It is commonly used in Sichuan cuisine of China and in the cuisines of the Himalayas. Despite its name, Sichuan pepper is not closely related to black pepper or chili pepper. Instead, Zanthoxylum plants are in the same family as citrus and rue.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sichuan_pepper.jpg/3840px-Sichuan_pepper.jpg",
+    "imageAlt": "Sichuan pepper reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Sichuan pepper.",
+    "howMuchToUse": "Use 1/2 teaspoon toasted and ground peppercorns for a tingling finish in stir-fries, noodles, and spice salts."
   },
   {
     "name": "Sicilian sumac",
@@ -4153,7 +4266,7 @@
       "grilled meat"
     ],
     "heatLevel": 0,
-    "description": "Sicilian sumac is a spice used for its tangy, lemony, fruity character. Cooks most often match the fruit or pod with salad, hummus, onion, za'atar, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider salad, hummus, onion and adjust the quantity to match the dish.",
+    "description": "Sicilian sumac is a spice valued for tangy, lemony, fruity notes. Cooks use the fruit or pod with salad, hummus, onion, za'atar, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include salad, hummus, onion, adjusted to taste.",
     "usedPart": "fruit or pod",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the fruit or pod in small measured amounts, then adjust after tasting. It works especially well with salad, hummus, onion. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -4201,7 +4314,12 @@
       "lemon balm"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Spearmint"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Spearmint",
+    "sourceSummary": "Spearmint, also known as garden mint, common mint, lamb mint and mackerel mint, is native to Europe and southern temperate Asia, extending from Ireland in the west to southern China in the east. It is naturalized in many other temperate parts of the world, including northern and southern Africa, North America, and South America. It is used as a flavouring in food and herbal teas. The aromatic oil, called oil of spearmint, is also used as a flavoring and sometimes as a scent.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Minze.jpg",
+    "imageAlt": "Spearmint reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Spearmint.",
+    "howMuchToUse": "Use a small handful in tea, salads, chutneys, peas, lamb, and desserts; add near the end for freshness."
   },
   {
     "name": "Star anise",
@@ -4238,7 +4356,12 @@
       "five-spice powder"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Star_anise"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Star_anise",
+    "sourceSummary": "Illicium verum is a medium-sized evergreen tree native to South China and northeast Vietnam. Its star-shaped pericarp fruits harvested just before ripening are a spice that closely resembles anise in flavor. Its primary production country is China, followed by Vietnam and other Southeast Asian countries. Star anise oil is highly fragrant, used in cooking, perfumery, soaps, toothpastes, mouthwashes, and skin creams. Until 2012, when they switched to using genetically modified E. coli, Roche Pharmaceuticals used up to 90% of the world's annual star anise crop to produce oseltamivir (Tamiflu) via shikimic acid.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Illicium_verum_1zz.jpg",
+    "imageAlt": "Star anise reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Illicium verum.",
+    "howMuchToUse": "Use 1 whole pod in a pot of braise, pho broth, poached fruit, or mulled drink, then remove before serving."
   },
   {
     "name": "Stone parsley",
@@ -4261,7 +4384,7 @@
       "potato"
     ],
     "heatLevel": 0,
-    "description": "Stone parsley is a herb used for its fresh, slightly bitter, clean character. Cooks most often match the leaf with garlic, lemon, butter, fish, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider garlic and adjust the quantity to match the dish.",
+    "description": "Stone parsley is a herb valued for fresh, slightly bitter, clean notes. Cooks use the leaf with garlic, lemon, butter, fish, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include garlic, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with garlic, lemon, butter. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -4307,7 +4430,12 @@
       "pomegranate molasses"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Sumac"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sumac",
+    "sourceSummary": "Sumac or sumach —not to be confused with poison sumac—is any of the roughly 35 species of flowering plants in the genus Rhus of the cashew and mango tree family, Anacardiaceae. However, it is Rhus coriaria that is most commonly used for culinary purposes. Sumac is prized as a spice—especially in Arab cuisine, and other Eastern cuisines—and used as a dye and holistic remedy. The plants grow in subtropical and temperate regions, on nearly every continent except Antarctica and South America. It holds cultural significance as a symbolic item on the Haft-sin table during Nowruz, the Persian New Year.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/SumacFruit.JPG",
+    "imageAlt": "Sumac reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Sumac.",
+    "howMuchToUse": "Use 1/2-1 teaspoon as a finishing sprinkle over salads, onions, grilled meats, hummus, or yogurt."
   },
   {
     "name": "Sweet Basil",
@@ -4451,7 +4579,12 @@
       "anise hyssop"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Tarragon"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tarragon",
+    "sourceSummary": "Tarragon, also known as estragon, is a species of perennial herb in the family Asteraceae. It is widespread in the wild across much of Eurasia and North America and is cultivated for culinary and medicinal purposes.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Estragon_1511.jpg",
+    "imageAlt": "Tarragon reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Tarragon.",
+    "howMuchToUse": "Use 1 tablespoon chopped fresh tarragon or 1/2 teaspoon dried in chicken, eggs, fish, vinegar, and cream sauces."
   },
   {
     "name": "Tasmanian pepper",
@@ -4562,7 +4695,11 @@
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
     "sourceUrl": "https://en.wikipedia.org/wiki/Thyme",
-    "howMuchToUse": "Use a few sprigs or 1/2 teaspoon dried thyme in soups, stews, roasted vegetables, and poultry. It handles longer cooking well."
+    "howMuchToUse": "Use a few sprigs or 1/2 teaspoon dried thyme in soups, stews, roasted vegetables, and poultry. It handles longer cooking well.",
+    "sourceSummary": "Thyme is a culinary herb consisting of the dried aerial parts of some members of the genus Thymus of flowering plants in the mint family Lamiaceae. Thymes are native to Mediterranean countries in North Africa, Levant and Southern Europe. Thymes have culinary, medicinal, and ornamental uses. The species most commonly cultivated and used for culinary purposes is Thymus vulgaris, native to Southeast Europe.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thyme-Bundle.jpg/3840px-Thyme-Bundle.jpg",
+    "imageAlt": "Thyme reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Thyme."
   },
   {
     "name": "Torch ginger",
@@ -4589,7 +4726,7 @@
       "lemongrass"
     ],
     "heatLevel": 3,
-    "description": "Torch ginger is a spice used for its spicy, warm, citrusy character. Cooks most often match the root or rhizome with coconut milk, lime, fish, chili, where it adds a distinct seasoning note instead of a generic background flavor. It brings noticeable heat, so add it gradually and balance with salt, fat, or acidity. If a recipe needs a substitute, consider ginger, galangal, turmeric and adjust the quantity to match the dish.",
+    "description": "Torch ginger is a spice valued for spicy, warm, citrusy notes. Cooks use the root or rhizome with coconut milk, lime, fish, chili, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include ginger, galangal, turmeric, adjusted to taste.",
     "usedPart": "root or rhizome",
     "culinaryContext": "Commonly used in Indonesia cooking contexts.",
     "howToUse": "Use the root or rhizome in small measured amounts, then adjust after tasting. It works especially well with garlic, soy sauce, lemon. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -4675,7 +4812,12 @@
       "tonka bean"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Vanilla"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vanilla",
+    "sourceSummary": "Vanilla is a spice derived from orchids of the genus Vanilla, primarily obtained from the seed pods of the flat-leaved Mexican and Central American vanilla (V. planifolia).",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vanilla_planifolia_%286998639597%29.jpg",
+    "imageAlt": "Vanilla reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Vanilla.",
+    "howMuchToUse": "Use 1 teaspoon vanilla extract or the seeds of 1/2 pod for most cakes, custards, and dessert sauces."
   },
   {
     "name": "Vietnamese coriander",
@@ -4698,7 +4840,7 @@
       "coconut"
     ],
     "heatLevel": 0,
-    "description": "Vietnamese coriander is a spice used for its citrusy, nutty, floral character. Cooks most often match the culinary plant part or prepared seasoning with cumin, chili, lime, ginger, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider saffron, rose, lavender and adjust the quantity to match the dish.",
+    "description": "Vietnamese coriander is a spice valued for citrusy, nutty, floral notes. Cooks use the culinary plant part or prepared seasoning with cumin, chili, lime, ginger, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include saffron, rose, lavender, adjusted to taste.",
     "usedPart": "culinary plant part or prepared seasoning",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the culinary plant part or prepared seasoning in small measured amounts, then adjust after tasting. It works especially well with cumin, chili, lime. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -4745,7 +4887,12 @@
       "soy sauce"
     ],
     "sourceName": "Wikipedia / Wikidata culinary herb and spice references",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Wasabi"
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wasabi",
+    "sourceSummary": "Wasabi or Japanese horseradish is a plant of the family Brassicaceae, which also includes horseradish and mustard in other genera. The plant is native to Japan, the Russian Far East including Sakhalin, and the Korean Peninsula. It grows naturally along stream beds in mountain river valleys in Japan.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Wasabia_japonica_4.JPG",
+    "imageAlt": "Wasabi reference image",
+    "imageCredit": "Image via Wikimedia Commons / Wikipedia page: Wasabi.",
+    "howMuchToUse": "Use a pea-sized amount as a condiment; add just before eating because the sharp aroma fades quickly."
   },
   {
     "name": "Water-pepper",
@@ -4800,7 +4947,7 @@
       "bush honey"
     ],
     "heatLevel": 1,
-    "description": "Wattleseed is a spice used for its warm, aromatic character. Cooks most often match the seed with chocolate, cream, vanilla, macadamia, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider coffee, cocoa nibs, roasted chicory and adjust the quantity to match the dish.",
+    "description": "Wattleseed is a spice valued for warm, aromatic notes. Cooks use the seed with chocolate, cream, vanilla, macadamia, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include coffee, cocoa nibs, roasted chicory, adjusted to taste.",
     "usedPart": "seed",
     "culinaryContext": "Used across global spice traditions, both alone and in blended seasonings.",
     "howToUse": "Use the seed in small measured amounts, then adjust after tasting. It works especially well with garlic, onion, ginger. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -4833,7 +4980,7 @@
       "tomato sauce"
     ],
     "heatLevel": 0,
-    "description": "West Indian bay leaf is a herb used for its herbal, slightly bitter, floral character. Cooks most often match the leaf with soup, stew, rice, beans, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider parsley, basil, oregano and adjust the quantity to match the dish.",
+    "description": "West Indian bay leaf is a herb valued for herbal, slightly bitter, floral notes. Cooks use the leaf with soup, stew, rice, beans, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include parsley, basil, oregano, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with soup, stew, rice. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -4869,7 +5016,7 @@
       "cardamom"
     ],
     "heatLevel": 1,
-    "description": "White cinnamon is a spice used for its sweet, warm, woody character. Cooks most often match the bark with apple, chocolate, coffee, honey, where it adds a distinct seasoning note instead of a generic background flavor. It brings gentle warmth, so it can be layered with other seasonings. If a recipe needs a substitute, consider cinnamon, nutmeg, allspice and adjust the quantity to match the dish.",
+    "description": "White cinnamon is a spice valued for sweet, warm, woody notes. Cooks use the bark with apple, chocolate, coffee, honey, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cinnamon, nutmeg, allspice, adjusted to taste.",
     "usedPart": "bark",
     "culinaryContext": "Commonly used in Caribbean cooking contexts.",
     "howToUse": "Use the bark in small measured amounts, then adjust after tasting. It works especially well with apple, chocolate, coffee. It can be bloomed briefly in oil or added during cooking for gentle warmth.",
@@ -4942,7 +5089,7 @@
       "chicken"
     ],
     "heatLevel": 0,
-    "description": "Wild thyme is a herb used for its earthy, minty, slightly sweet character. Cooks most often match the leaf with rosemary, garlic, lemon, mushroom, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider cumin, coriander, turmeric and adjust the quantity to match the dish.",
+    "description": "Wild thyme is a herb valued for earthy, minty, slightly sweet notes. Cooks use the leaf with rosemary, garlic, lemon, mushroom, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cumin, coriander, turmeric, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
@@ -4976,7 +5123,7 @@
       "chicken"
     ],
     "heatLevel": 0,
-    "description": "Woolly thyme is a herb used for its earthy, minty, slightly sweet character. Cooks most often match the leaf with rosemary, garlic, lemon, mushroom, where it adds a distinct seasoning note instead of a generic background flavor. It is used for aroma and depth rather than chile heat. If a recipe needs a substitute, consider cumin, coriander, turmeric and adjust the quantity to match the dish.",
+    "description": "Woolly thyme is a herb valued for earthy, minty, slightly sweet notes. Cooks use the leaf with rosemary, garlic, lemon, mushroom, choosing it when a dish needs a focused aroma, color, or finish. When it is unavailable, practical substitutes include cumin, coriander, turmeric, adjusted to taste.",
     "usedPart": "leaf",
     "culinaryContext": "Used across fresh and dried herb traditions in home and restaurant cooking.",
     "howToUse": "Use the leaf in small measured amounts, then adjust after tasting. It works especially well with rosemary, garlic, lemon. Add it near the end for fresher aroma, or earlier when you want a softer background note.",
